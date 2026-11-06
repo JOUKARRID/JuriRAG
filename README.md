@@ -6,7 +6,7 @@ JuriRAG is a web-based Retrieval-Augmented Generation (RAG) application designed
 
 It combines semantic search, keyword-based retrieval, and Large Language Models (LLMs) to retrieve relevant legal documents and generate contextual answers.
 
-## ✨ Features
+##  Features
 
 - **Hybrid Retrieval:** Combines multilingual E5 embeddings with BM25 keyword search.
 - **Vector Database:** Uses ChromaDB to store and retrieve legal document embeddings.
@@ -17,7 +17,7 @@ It combines semantic search, keyword-based retrieval, and Large Language Models 
 - **Retrieval-Only Mode:** Tests document retrieval without sending a request to an LLM.
 - **Web Interface:** Simple interface for asking questions and exploring retrieved legal information.
 
-## 🛠️ Technologies
+##  Technologies
 
 - Python
 - ChromaDB
@@ -27,7 +27,7 @@ It combines semantic search, keyword-based retrieval, and Large Language Models 
 - HTML, CSS, JavaScript
 - Groq / Gemini / Anthropic (configurable LLM providers)
 
-## 🚀 Run Locally (Windows)
+##  Run Locally (Windows)
 
 ### 1. Clone the repository
 
@@ -121,7 +121,7 @@ The project uses Moroccan legal and tax documentation, including:
 
 The first search may take some time because the embedding model needs to load. If its weights are not cached, they may be downloaded automatically.
 
-## ⚠️ Disclaimer
+##  Disclaimer
 
 JuriRAG is an experimental AI-powered legal information assistant. Its responses are intended for informational and educational purposes only and do not replace professional legal or tax advice.
 
@@ -133,6 +133,6 @@ Always verify important information against official and up-to-date legal source
 Master's Student in Artificial Intelligence and Digital Computing  
 Faculty of Sciences and Techniques of Béni Mellal (FST Béni Mellal), Morocco.
 
-## 📌 Project Status
+##  Project Status
 
 JuriRAG is an ongoing project. Improvements to retrieval quality, legal-document coverage, and deployment are planned.
