@@ -1,0 +1,22 @@
+
+# Environnement Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Secrets et variables d'environnement
+.env
+.env.*
+!.env.example
+
+# Cache
+llm_cache.json
+
+# IDE
+.vscode/
+.idea/
+
+# Système
+.DS_Store
+Thumbs.db

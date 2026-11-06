@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f5f5f2">
+  <title>JuriRAG — Assistant juridique marocain</title>
+  <link rel="stylesheet" href="/styles.css">
+  <script src="/app.js" defer></script>
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="/" aria-label="JuriRAG accueil">
+      <span class="brand-mark">J</span>
+      <span>Juri<span class="brand-light">RAG</span></span>
+    </a>
+    <div class="topbar-right">
+      <span class="local-badge"><span class="local-dot"></span> Session locale</span>
+      <button class="icon-button" id="theme-button" type="button" aria-label="Changer le thème" title="Changer le thème">◐</button>
+    </div>
+  </header>
+
+  <main class="layout">
+    <aside class="sidebar">
+      <div class="sidebar-heading">ESPACE DE TEST</div>
+      <div class="project-card">
+        <div class="project-icon">⚖</div>
+        <div><strong>JuriRAG Maroc</strong><span>Assistant juridique</span></div>
+        <span class="online-dot" id="sidebar-dot"></span>
+      </div>
+
+      <div class="sidebar-heading status-heading">ÉTAT DU SYSTÈME</div>
+      <div class="status-card">
+        <div class="status-row"><span>API locale</span><span class="status-value"><i class="status-dot" id="api-dot"></i><span id="api-status">Vérification…</span></span></div>
+        <div class="status-row"><span>Index vectoriel</span><span class="status-value"><i class="status-dot" id="index-dot"></i><span id="index-status">—</span></span></div>
+        <div class="status-row"><span>Modèle de réponse</span><span class="status-value"><i class="status-dot" id="llm-dot"></i><span id="llm-status">—</span></span></div>
+      </div>
+      <div class="sidebar-note">Les réponses s’appuient sur les documents juridiques chargés dans votre index local.</div>
+      <div class="sidebar-footer"><span class="shield">▣</span> Traitement sur cette machine<br><span class="footer-sub">La génération peut contacter le fournisseur LLM configuré.</span></div>
+    </aside>
+
+    <section class="workspace">
+      <div class="content">
+        <div class="eyebrow"><span class="eyebrow-line"></span> DROIT &amp; FISCALITÉ DU MAROC</div>
+        <h1>Vos textes juridiques,<br><em>à portée de question.</em></h1>
+        <p class="intro">Interrogez vos documents sur le droit du travail et la fiscalité marocaine. Chaque réponse s’appuie sur des extraits de vos sources.</p>
+
+        <div class="scope-row">
+          <span class="scope-label">VOTRE PÉRIMÈTRE</span>
+          <span class="scope-chip"><b class="chip-green"></b>Droit du travail</span>
+          <span class="scope-chip"><b class="chip-blue"></b>Fiscalité &amp; impôts</span>
+          <span class="scope-chip scope-muted">Sources citées</span>
+        </div>
+
+        <form class="question-card" id="question-form">
+          <label for="question">Quelle est votre question ?</label>
+          <textarea id="question" name="question" rows="3" maxlength="2000" placeholder="Ex. Quel est le taux normal de la TVA au Maroc ?" required></textarea>
+          <div class="form-controls">
+            <label class="select-label" for="domain">Domaine</label>
+            <select id="domain" name="domain">
+              <option value="auto">Détection automatique</option>
+              <option value="travail">Droit du travail</option>
+              <option value="impots">Fiscalité &amp; impôts</option>
+            </select>
+            <label class="retrieval-toggle" for="retrieve-only">
+              <input id="retrieve-only" type="checkbox">
+              <span>Recherche seule</span>
+            </label>
+            <button class="submit-button" id="submit-button" type="submit"><span>Interroger</span><span aria-hidden="true">↗</span></button>
+          </div>
+          <div class="mode-hint" id="mode-hint">Réponse complète avec génération LLM et sources citées.</div>
+        </form>
+
+        <div class="suggestions">
+          <span class="suggestion-heading">ESSAYEZ PAR EXEMPLE</span>
+          <button type="button" class="suggestion" data-question="Quel est le taux normal de la TVA ?"><span>↗</span> Quel est le taux normal de la TVA ?</button>
+          <button type="button" class="suggestion" data-question="Combien de jours de congé annuel payé après six mois de service ?"><span>↗</span> Congé annuel après six mois ?</button>
+          <button type="button" class="suggestion" data-question="Quelles pièces fournir pour une première demande de visa de contrat de travail d'étranger ?"><span>↗</span> Visa de travail : pièces à fournir</button>
+        </div>
+
+        <section class="result-panel" id="result-panel" hidden aria-live="polite">
+          <div class="result-header">
+            <div><div class="result-kicker" id="result-kicker">RÉPONSE</div><h2 id="result-title">Résultat</h2></div>
+            <span class="domain-tag" id="domain-tag"></span>
+          </div>
+          <div class="result-error" id="result-error" hidden></div>
+          <div class="answer-text" id="answer-text"></div>
+          <div class="sources-section" id="sources-section" hidden>
+            <div class="sources-heading"><span>Sources</span><span class="source-count" id="source-count"></span></div>
+            <div class="source-list" id="source-list"></div>
+          </div>
+          <div class="disclaimer" id="disclaimer">Information générale, ne remplace pas un conseil juridique.</div>
+        </section>
+
+        <footer class="page-footer"><span>JuriRAG</span> · Prototype de recherche juridique · Maroc</footer>
+      </div>
+    </section>
+  </main>
+</body>
+</html>

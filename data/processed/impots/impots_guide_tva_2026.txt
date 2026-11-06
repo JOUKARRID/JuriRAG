@@ -1,0 +1,1954 @@
+
+[[PAGE 1]]
+Guide Pratique
+de la TVA au Maroc
+Analyse complète du dispositif TVA 2026
+CGI, Circulaire 717 & Notes Circulaires 730-737
+Edition Mars 2026 — Conforme à la Loi de Finances 2026
+Upsilon Consulting — Expert-Comptable • Audit • Conseil Fiscal
+Casablanca, Maroc • www.upsilon-consulting.com
+Guide Pratique de la TVA au Maroc — 2026 Upsilon Consulting
+www.upsilon-consulting.com 1 / 57
+[[PAGE 2]]
+Table des matières
+PARTIE I — CHAMP D'APPLICATION ET PRINCIPES
+1.  Introduction — La TVA au Maroc
+2.  Champ d'application de la TVA (art. 89)
+3.  Territorialité de la TVA (art. 88)
+4.  Le système de l'option (art. 90)
+PARTIE II — EXONÉRATIONS ET TAUX
+5.  Exonérations sans droit à déduction (art. 91)
+6.  Exonérations avec droit à déduction (art. 92)
+7.  Régime suspensif (art. 94)
+8.  Les taux de TVA (art. 99)
+PARTIE III — DÉDUCTION, BASE ET CALCUL
+9.  La déduction de la TVA et ses limitations
+10. La base imposable (art. 96-98)
+11.  Fait générateur et exigibilité (art. 95)
+PARTIE IV — RÉGIMES SPÉCIAUX
+12. Régime des promoteurs immobiliers et lotisseurs
+13. Régime de remboursement de la TVA
+PARTIE V — OBLIGATIONS ET SANCTIONS
+14. Déclarations et paiement de la TVA
+15.  Retenue à la source, autoliquidation et représentation fiscale
+Guide Pratique de la TVA au Maroc — 2026 Upsilon Consulting
+www.upsilon-consulting.com 2 / 57
+[[PAGE 3]]
+16. Sanctions et prescription
+Guide Pratique de la TVA au Maroc — 2026 Upsilon Consulting
+www.upsilon-consulting.com 3 / 57
+[[PAGE 4]]
+Chapitre 1 — Introduction : la TVA au Maroc
+1.1. Nature de la TVA
+La Taxe sur la Valeur Ajoutée (TVA) est un impôt indirect sur la consommation. Contrairement à l'impôt
+sur les sociétés ou à l'impôt sur le revenu, la TVA ne frappe pas directement le revenu ou le bénéfice du
+contribuable : elle est supportée par le consommateur final et collectée par l'entreprise à chaque stade de
+la chaîne économique.
+Le mécanisme repose sur un principe simple : chaque opérateur économique collecte la TVA sur ses
+ventes (TVA collectée) et déduit la TVA supportée sur ses achats (TVA déductible). La différence —
+positive ou négative — est versée au Trésor ou récupérable sous forme de crédit de taxe.
+En pratique : Lorsqu'un fabricant de meubles achète du bois pour 100 000 DH HT (soit 120 000 DH TTC
+au taux de 20 %), il paie 20 000 DH de TVA à son fournisseur. Lorsqu'il revend le meuble fini à 250 000
+DH HT (soit 300 000 DH TTC), il collecte 50 000 DH de TVA. Il ne verse au Trésor que la différence : 50
+000 − 20 000 = 30 000 DH, correspondant à la valeur ajoutée qu'il a créée.
+Ce mécanisme garantit la neutralité économique de la TVA pour les entreprises — à condition qu'elles
+bénéficient du droit à déduction. Nous verrons que cette condition n'est pas toujours remplie, notamment
+pour les opérations exonérées sans droit à déduction (chapitre 5).
+1.2. Historique : de 1986 à la réforme 2024-2026
+La TVA a été introduite au Maroc par la loi n° 30-85 du 20 décembre 1985, entrée en vigueur le 1er avril
+1986. Elle a remplacé l'ancienne taxe sur les produits et services (TPS), jugée complexe et source de
+distorsions économiques.
+Depuis son instauration, la TVA marocaine a connu plusieurs phases d'évolution :
+1986-2006 — Mise en place progressive, avec un système à cinq taux (7 %, 10 %, 14 %, 20 % et un
+taux super-réduit) et de nombreuses exonérations sectorielles.
+2007 — Intégration de la TVA dans le Code Général des Impôts (CGI), unifiant l'ensemble de la
+fiscalité dans un texte unique (Livre II, articles 87 à 125 quater).
+2011 — Publication de la Circulaire 717 (tome 2), commentaire officiel exhaustif de la TVA par la
+Direction Générale des Impôts. Ce document reste, à ce jour, la référence doctrinale de base.
+2016-2021 — Adaptations successives : intégration de la finance participative (Mourabaha, Ijara,
+Salam, Istisna'a), élargissement des professions libérales, refonte du seuil des petits fabricants (LdF
+2020).
+2024-2026 — Réforme majeure engagée par la loi-cadre n° 69-19 portant réforme fiscale. Les lois
+de finances 2024 (NC 735), 2025 (NC 736) et 2026 (NC 737) mettent en œuvre une convergence
+Guide Pratique de la TVA au Maroc — 2026 Upsilon Consulting
+www.upsilon-consulting.com 4 / 57
+[[PAGE 5]]
+progressive des taux, avec pour objectif un système à deux taux (10 % et 20 %) assorti d'exonérations
+ciblées.
+Les principales mesures de la réforme 2024-2026 concernent :
+L'exonération progressive des produits de première nécessité (beurre animal, conserves de sardines,
+lait en poudre, fournitures scolaires, pâtes alimentaires à base de blé commun) ;
+L'exonération avec droit à déduction de l'ensemble des produits pharmaceutiques ;
+La convergence des taux de 7 % et 14 % vers 10 % et 20 % selon un calendrier transitoire ;
+L'assujettissement obligatoire de certaines locations professionnelles acquises avec avantage TVA.
+1.3. Place de la TVA dans le système fiscal marocain
+Le système fiscal marocain repose sur quatre piliers principaux :
+Impôt Nature Assiette Base légale (CGI 2026)
+IS — Impôt sur les Sociétés Direct Bénéfice net fiscal Livre I, art. 1 à 86 bis
+IR — Impôt sur le Revenu Direct Revenu global des personnes
+physiques
+Livre I, art. 21 à 86 bis
+TVA — Taxe sur la Valeur
+Ajoutée
+Indirect Consommation (valeur ajoutée) Livre II, art. 87 à 125
+quinquies
+DE — Droits d'Enregistrement Indirect Actes juridiques et mutations Livre III, art. 126 à 143
+La TVA constitue la première source de recettes fiscales de l'État marocain, représentant environ 30 %
+des recettes fiscales totales. Son rendement est directement corrélé à l'activité économique, ce qui en fait
+un indicateur conjoncturel important.
+Pour l'expert-comptable, la maîtrise de la TVA est fondamentale : elle intervient dans la quasi-totalité des
+opérations courantes de l'entreprise — achats, ventes, prestations de services, investissements,
+opérations immobilières — et conditionne la trésorerie des entreprises à travers le mécanisme de la
+déduction et du crédit de taxe.
+1.4. Sources juridiques
+L'analyse de la TVA marocaine repose sur une hiérarchie de textes :
+Le Code Général des Impôts (CGI 2026) — Texte de loi, mis à jour annuellement par les lois de
+finances. Le Livre II (articles 87 à 125 quinquies) constitue le droit positif applicable.
+La Circulaire 717 (C.717) — Tome 2, publiée par la DGI en 2011. Commentaire officiel détaillé de
+l'ensemble des dispositions TVA. Reste la référence doctrinale de base, bien que plusieurs sections
+soient désormais obsolètes suite aux réformes post-2011.
+Les Notes Circulaires (NC) — Publiées chaque année pour commenter les modifications apportées
+par la loi de finances. Pour la période 2020-2026, les notes essentielles sont :
+Guide Pratique de la TVA au Maroc — 2026 Upsilon Consulting
+www.upsilon-consulting.com 5 / 57
+[[PAGE 6]]
+NC 730 (LdF 2020) — Refonte du seuil des petits fabricants, finance participative
+NC 731 (LdF 2021) — Élargissement des professions libérales
+NC 735 (LdF 2024) — Réforme des taux, exonérations nouvelles, locations professionnelles
+NC 736 (LdF 2025) — Convergence des taux, viande assaisonnée, levure sèche
+NC 737 (LdF 2026) — Pâtes alimentaires, matières de récupération, prorogations
+Note méthodologique : Dans ce guide, chaque règle est accompagnée de la référence à sa source
+autoritaire. Lorsque la C.717 a été modifiée ou complétée par une note circulaire ultérieure, c'est la
+dernière NC en date qui prévaut.
+1.5. Structure du guide
+Ce guide suit la logique de l'arbre de décision TVA que tout professionnel doit maîtriser :
+Chapitres 1-3 — Questions préalables : l'opération est-elle dans le champ ? Où est-elle réalisée ?
+Chapitre 4 — Le système de l'option : peut-on choisir l'assujettissement volontaire ?
+Chapitres 5-6 — Exonérations : sans droit à déduction (chapitre 5) et avec droit à déduction (chapitre
+6)
+Chapitre 7 — Taux : détermination du taux applicable
+Chapitres 8-10 — Base imposable, fait générateur, déductions et remboursements
+Chapitres 11-12 — Obligations déclaratives, sanctions et contrôle fiscal
+Chaque chapitre combine l'exposé des règles légales, les commentaires administratifs (C.717 et NC) et
+des exemples pratiques tirés de la réalité des entreprises marocaines.
+Chapitre 2 — Champ d'application de la TVA (art. 89 du CGI)
+2.1. Principe général
+L'article 89 du CGI énumère de manière limitative les opérations obligatoirement soumises à la TVA. Le
+champ d'application repose sur la nature de l'opération — et non sur le statut juridique de l'opérateur.
+Ainsi, une association, une personne physique ou un opérateur occasionnel peuvent être assujettis si
+l'opération qu'ils réalisent entre dans le champ défini par l'article 89.
+2.2. Opérations portant sur les biens meubles
+A. Fabricants et entrepreneurs de manufacture (art. 89-I-1°)
+Sont obligatoirement imposables les ventes et livraisons effectuées par les fabricants et entrepreneurs de
+manufacture, de produits qu'ils extraient, fabriquent ou conditionnent, directement ou par le biais d'un
+travail à façon.
+Guide Pratique de la TVA au Maroc — 2026 Upsilon Consulting
+www.upsilon-consulting.com 6 / 57
+[[PAGE 7]]
+La notion d'entrepreneur de manufacture est large (C.717, p. 11-14). Elle vise toute personne qui,
+habituellement ou occasionnellement, à titre principal ou accessoire :
+Fabrique, extrait, transforme ou modifie l'état de produits ;
+Procède à des manipulations : assemblage, assortiment, coupage, montage, morcellement ou
+présentation commerciale ;
+Fait effectuer ces opérations par des tiers, en fournissant matériaux/matières premières ou en
+imposant des techniques (brevets, dessins, plans, procédés).
+Exemple — Qualification de l'activité agricole : Un agriculteur qui sèche, conserve ou conditionne ses
+produits par ses propres moyens dans le prolongement normal de son activité reste hors champ TVA. En
+revanche, s'il recourt à un procédé industriel, traite des produits achetés à des tiers, ou confie le
+conditionnement à un sous-traitant, il devient entrepreneur de manufacture et entre dans le champ de la
+TVA.
+Exemple — Présentation commerciale : Un apiculteur qui vend son miel en vrac n'est pas taxable. S'il le
+conditionne dans des pots étiquetés avec une marque, il réalise une présentation commerciale taxable. À
+l'inverse, un détaillant qui emballe un produit au moment de la vente ne fait pas de présentation
+commerciale.
+Seuil de 500 000 DH : Depuis la LdF 2020 (NC 730), l'ancien seuil d'exclusion du champ pour les petits
+fabricants personnes physiques (CA ≤ 500 000 DH) a été abrogé. Ces opérateurs sont désormais dans le
+champ mais exonérés sans droit à déduction (art. 91-II-3°). Ils conservent la possibilité d'opter pour
+l'assujettissement (art. 90-2°). Les professions libérales (art. 89-I-12°) restent assujetties quel que soit le
+CA.
+B. Commerçants grossistes et seuil de 2 000 000 DH (art. 89-I-2°)
+Sont soumises à la TVA les opérations de vente et de livraison réalisées par :
+Les commerçants grossistes, quel que soit leur chiffre d'affaires ;
+Les commerçants dont le CA taxable de l'année précédente atteint ou dépasse 2 000 000 DH.
+Le seuil de 2 000 000 DH se calcule en prenant en compte le CA taxable HT, le CA exonéré et le CA hors
+champ. Un commerçant qui dépasse ce seuil ne peut remettre en cause son assujettissement que si son
+CA reste inférieur à 2 000 000 DH pendant trois années consécutives (C.717).
+Point pratique : Même lorsqu'un commerçant est assujetti au titre du seuil de 2 M DH, seuls ses produits
+taxables sont soumis à la TVA. Les produits hors champ (agricoles non transformés) et exonérés (art. 91,
+92) sont déclarés mais ne génèrent pas de TVA collectée.
+Guide Pratique de la TVA au Maroc — 2026 Upsilon Consulting
+www.upsilon-consulting.com 7 / 57
+[[PAGE 8]]
+C. Commerçants importateurs (art. 89-I-4°)
+Les importateurs sont redevables de la TVA sur la revente de marchandises importées, quel que soit le
+mode de vente (gros ou détail) et sans condition de seuil. Seule exception : les produits hors champ ou
+exonérés importés ne sont pas soumis à la TVA intérieure lors de la revente.
+D. Échanges et cessions de marchandises (art. 89-I-8°)
+La cession par un assujetti d'un article imposable en échange d'un autre constitue une opération
+commerciale taxable. De même, la cession de stocks dans le cadre d'une vente de fonds de commerce
+est une vente taxable — tandis que la cession des éléments incorporels du fonds reste un acte civil hors
+champ.
+2.3. Opérations portant sur les biens immeubles (art. 89-I-5°)
+Trois catégories d'opérations immobilières sont obligatoirement imposables :
+Travaux immobiliers : réalisés par des entrepreneurs disposant de personnel et de matériel, qu'ils
+exercent à titre professionnel ou occasionnel, que les matériaux soient fournis par l'entrepreneur ou le
+maître d'ouvrage.
+Lotissement : travaux d'aménagement et de viabilisation de terrains à bâtir. La base imposable est le
+coût de viabilisation, à l'exclusion du prix du terrain.
+Promotion immobilière : toute personne qui édifie ou fait édifier des immeubles destinés à la vente ou
+à la location, à titre professionnel ou occasionnel.
+2.4. Livraisons à soi-même (art. 89-I-7°)
+Le mécanisme des livraisons à soi-même vise à rétablir l'égalité fiscale entre ceux qui achètent un bien ou
+service sur le marché (et paient la TVA) et ceux qui le produisent eux-mêmes.
+Sont taxables : le fabricant de meubles qui prélève pour usage personnel ; l'entreprise qui fabrique une
+machine pour son propre usage ; le fabricant qui équipe ses propres locaux avec ses produits.
+Ne sont pas taxables : la production d'énergie pour la marche des machines (consommation
+intermédiaire) ; l'usinage de pièces entrant dans le produit final ; la fabrication d'outils utilisés dans le
+processus de production.
+2.5. Prestations de services
+A. Installation, pose, réparation et façon (art. 89-I-6°)
+Sont taxables les opérations d'installation (placement d'objets conservant leur caractère mobilier), de
+réparation (remise en état sans modification), de transformation (modification des caractéristiques) et de
+travail à façon (transformation d'un bien appartenant à un tiers).
+Guide Pratique de la TVA au Maroc — 2026 Upsilon Consulting
+www.upsilon-consulting.com 8 / 57
+[[PAGE 9]]
+B. Hébergement et restauration (art. 89-I-9°)
+L'ensemble du secteur de l'hébergement (hôtels, résidences touristiques, maisons d'hôtes, pensions,
+chambres meublées, motels, villages de vacances) et de la restauration (restaurants, pâtisseries avec
+consommation sur place, débits de boissons) est dans le champ.
+C. Locations (art. 89-I-10°) — Modifié LdF 2024-2025
+Le régime des locations a été profondément remanié. Sont obligatoirement imposables (NC 735, NC 736) :
+Type de location Régime TVA 2026
+Locaux meublés ou garnis Obligatoirement taxable
+Locaux équipés pour usage professionnel Obligatoirement taxable
+Locaux dans complexes commerciaux (Mall) Obligatoirement taxable
+Locaux professionnels non équipés acquis/construits avec avantage TVA Obligatoirement taxable (LdF 2024)
+Locaux professionnels non équipés sans avantage TVA Option possible (art. 90-4°)
+Location nue non professionnelle Hors champ (acte civil)
+Exception LdF 2025 (NC 736) : Les locations de locaux non équipés par les sociétés foncières ou OPCI
+aux établissements privés d'enseignement ou de formation professionnelle sont exclues du champ, même
+si les locaux ont été acquis avec droit à déduction.
+D. Opérations de banque, crédit et change (art. 89-I-11°)
+L'ensemble des opérations bancaires classiques (intérêts, escomptes, agios, commissions de change) est
+taxable. Depuis les LdF 2016 et 2020, les produits de finance participative sont soumis aux mêmes
+conditions : Mourabaha, Ijara Mountahia Bitamlik, Salam, Istisna'a, Moucharaka Moutanakissa, Wakala
+Bilistithmar (NC 730).
+E. Professions libérales (art. 89-I-12°) — Modifié LdF 2021
+Depuis la LdF 2021 (NC 731), le champ a été élargi à toute profession libérale ou activité assimilée. La
+liste de la C.717 (avocat, notaire, architecte, vétérinaire, ingénieur-conseil, géomètre, etc.) n'est plus
+limitative.
+Règle clé : Les professions libérales sont assujetties quel que soit le montant du CA réalisé. Le seuil de
+500 000 DH ne leur est pas applicable.
+2.6. Opérations hors champ
+La distinction entre « hors champ » et « exonéré » est fondamentale. Une opération hors champ n'entre
+tout simplement pas dans le périmètre de la TVA : pas de collecte, pas de déduction, aucune obligation
+déclarative à ce titre.
+Guide Pratique de la TVA au Maroc — 2026 Upsilon Consulting
+www.upsilon-consulting.com 9 / 57
+[[PAGE 10]]
+Les principales catégories hors champ sont :
+Activités agricoles : vente de produits de récolte à l'état naturel ou après transformation dans le
+prolongement normal de l'activité agricole. Attention : les prestations de services rendues par un
+agriculteur à des tiers (transport, location de matériel) sont dans le champ.
+Actes civils : location de terrain nu ou immeuble non meublé/non agencé (sauf cas de l'art. 89-I-10°-
+d) ; cession des éléments incorporels d'un fonds de commerce ; cession de droits d'auteur par l'auteur
+lui-même.
+Salariés : les personnes liées par un contrat de travail ne sont pas assujetties. En revanche, un
+dépositaire indépendant (sans horaire imposé, rémunération proportionnelle, employeur de son propre
+personnel) est assujetti.
+Distinction fondamentale — Hors champ ≠ Exonéré :
+Un agriculteur vendant ses légumes frais est hors champ : il n'a aucune obligation TVA.
+Un boulanger dont le CA est inférieur à 500 000 DH est dans le champ mais exonéré (art. 91-II-3°) : il
+doit se faire identifier mais ne collecte ni ne déduit la TVA. Il peut toutefois opter pour l'assujettissement
+(art. 90-2°).
+Chapitre 3 — Territorialité de la TVA (art. 88 du CGI)
+3.1. Principe : les opérations réalisées au Maroc
+Aux termes de l'article 88 du CGI, sont soumises à la TVA les opérations faites au Maroc, qu'elles soient
+réalisées à titre onéreux ou gratuit. Le principe de territorialité détermine si une opération relève de la TVA
+marocaine ou échappe à sa juridiction.
+Ce principe s'applique indépendamment de la nationalité, du domicile ou du statut juridique de
+l'opérateur. Ainsi, une société étrangère sans établissement au Maroc peut être redevable de la TVA
+marocaine si elle réalise des opérations réputées localisées sur le territoire national.
+3.2. Critères de rattachement territorial
+La localisation d'une opération au Maroc obéit à des critères distincts selon qu'il s'agit de biens ou de
+services.
+A. Livraisons de biens
+Le critère est le lieu de livraison. Une vente de marchandises est réputée faite au Maroc lorsque la
+livraison physique du bien intervient sur le territoire national. À l'inverse, les exportations (livraison hors du
+Maroc) sont exonérées avec droit à déduction (art. 92-I-1°).
+Pour les importations, la TVA est perçue par l'administration des douanes au moment du dédouanement,
+assurant ainsi l'égalité de traitement fiscal entre produits nationaux et importés.
+Guide Pratique de la TVA au Maroc — 2026 Upsilon Consulting
+www.upsilon-consulting.com 10 / 57
+[[PAGE 11]]
+B. Prestations de services — Règle générale
+Le critère traditionnel est le lieu d'utilisation ou d'exploitation du service. Une prestation est réputée
+faite au Maroc lorsqu'elle est exploitée ou utilisée sur le territoire marocain, quel que soit le lieu
+d'établissement du prestataire.
+Exemple : Un cabinet de conseil français qui réalise une mission d'audit pour une entreprise marocaine,
+même si le travail est effectué depuis Paris, rend un service exploité au Maroc. L'opération est dans le
+champ de la TVA marocaine. L'entreprise marocaine devra procéder à l'auto-liquidation.
+C. Services numériques — Modification LdF 2024
+La LdF 2024 a introduit une modification importante pour les services fournis par voie électronique
+(services numériques). Le critère de rattachement est désormais le lieu d'établissement ou de domicile
+du client, et non plus le lieu d'exploitation du service.
+Cette modification aligne le Maroc sur les standards internationaux (recommandations OCDE) et vise les
+prestations telles que :
+Logiciels en mode SaaS (Software as a Service) ;
+Services de streaming, téléchargement de contenus numériques ;
+Publicité en ligne ;
+Services de cloud computing ;
+Places de marché électroniques.
+Exemple : Une entreprise marocaine souscrit un abonnement SaaS auprès d'un éditeur américain. Avant
+la réforme, la localisation pouvait prêter à discussion (le serveur est à l'étranger, l'utilisation au Maroc).
+Depuis la LdF 2024, le critère est clair : le client est établi au Maroc, donc la prestation est réputée faite
+au Maroc et soumise à la TVA marocaine. L'entreprise marocaine auto-liquide la TVA.
+3.3. Auto-liquidation des prestations internationales
+Lorsqu'un prestataire étranger sans établissement au Maroc rend un service taxable au Maroc, le
+mécanisme de l'auto-liquidation s'applique. Le client marocain assujetti :
+Déclare la TVA due sur la prestation reçue (TVA collectée pour le compte du prestataire étranger) ;
+Déduit simultanément cette même TVA (si l'opération ouvre droit à déduction) ;
+L'opération est donc neutre en trésorerie pour un assujetti à déduction intégrale.
+Si le client marocain n'est pas assujetti ou ne bénéficie pas du droit à déduction intégrale, l'auto-
+liquidation génère un coût réel de TVA.
+Guide Pratique de la TVA au Maroc — 2026 Upsilon Consulting
+www.upsilon-consulting.com 11 / 57
+[[PAGE 12]]
+3.4. Cas pratiques de territorialité
+Situation Localisation Régime TVA
+Vente de marchandises livrées au Maroc Maroc TVA marocaine applicable
+Export de marchandises livrées à l'étranger Étranger Exonéré avec droit à
+déduction (art. 92-I-1°)
+Consultant étranger — mission exploitée au
+Maroc
+Maroc Auto-liquidation par le client
+marocain
+Cabinet marocain — mission réalisée et
+exploitée à l'étranger
+Étranger Export de services — exonéré
+(art. 92-I-1°)
+SaaS étranger souscrit par entreprise marocaine Maroc (critère du client,
+LdF 2024)
+Auto-liquidation par le client
+marocain
+Formation en ligne dispensée par organisme
+marocain à un client étranger
+Étranger (service exploité
+hors Maroc)
+Export de services — exonéré
+(art. 92-I-1°)
+Point de vigilance pour l'expert-comptable : L'auto-liquidation doit figurer sur la déclaration de TVA du
+client marocain. L'omission constitue une infraction sanctionnée par une majoration de 15 % et des
+intérêts de retard.
+Chapitre 4 — Le système de l'option (art. 90 du CGI)
+4.1. Principe : l'assujettissement volontaire
+L'article 90 du CGI permet à certaines personnes — exonérées ou hors champ — d'opter volontairement
+pour l'assujettissement à la TVA. L'optant devient un assujetti de plein exercice : il collecte la TVA sur
+ses ventes, déduit la TVA sur ses achats et se soumet à l'ensemble des obligations déclaratives.
+L'intérêt de l'option est essentiellement financier : en position d'exonéré sans droit à déduction, la TVA
+supportée en amont constitue un coût définitif. L'option permet de récupérer cette TVA et de
+transmettre le droit à déduction aux clients assujettis.
+4.2. Les quatre catégories de personnes pouvant opter
+1° Commerçants et prestataires exportateurs (art. 90-1°)
+Les commerçants et prestataires de services qui exportent directement des produits, objets,
+marchandises ou services peuvent opter pour la TVA sur leur chiffre d'affaires à l'exportation (C.717).
+Guide Pratique de la TVA au Maroc — 2026 Upsilon Consulting
+www.upsilon-consulting.com 12 / 57
+[[PAGE 13]]
+Intérêt : L'option permet de bénéficier soit du régime suspensif (achat en franchise de TVA au titre de
+l'art. 94), soit du remboursement de la TVA ayant grevé les achats (art. 103). Sans option, l'exportateur
+supporte définitivement la TVA sur ses intrants.
+Exemple — Agriculteur exportateur : Un producteur d'agrumes qui exporte directement ses récoltes est
+hors champ TVA. En optant pour l'assujettissement, il peut récupérer la TVA sur ses achats d'engrais, de
+matériel agricole et de services logistiques, améliorant significativement sa compétitivité à l'export.
+2° Fabricants et prestataires personnes physiques ≤ 500 000 DH (art. 90-2°)
+Depuis la refonte opérée par la LdF 2020 (NC 730), l'option vise les personnes physiques exonérées au
+titre de l'article 91-II-3° du CGI — c'est-à-dire les fabricants et prestataires dont le CA annuel n'excède
+pas 500 000 DH.
+Exception importante : Les professions libérales (art. 89-I-12°) sont assujetties de droit quel que soit leur
+CA. Elles n'ont pas besoin d'opter.
+Exemple — Petit artisan : Un menuisier personne physique réalisant un CA de 400 000 DH est exonéré
+sans droit à déduction. S'il travaille principalement pour des promoteurs immobiliers (assujettis), l'option
+lui permet de facturer la TVA (déductible par ses clients), de récupérer la TVA sur ses achats de bois et
+d'outillage, et de devenir plus compétitif face aux grands ateliers assujettis.
+3° Commerçants revendeurs en l'état (art. 90-3°)
+Les commerçants non assujettis qui revendent en l'état des produits et denrées autres que les produits
+de première nécessité exonérés à l'article 91-I-A (pain, lait, sucre brut, dattes conditionnées, raisins secs,
+figues sèches) peuvent opter pour l'assujettissement.
+4° Bailleurs de locaux professionnels non équipés (art. 90-4°)
+Créé par la LdF 2018 et modifié par la LdF 2024 (NC 735), ce cas vise les bailleurs de locaux à usage
+professionnel non équipés.
+Attention : Depuis la LdF 2024, si les locaux ont été acquis ou construits avec bénéfice du droit à
+déduction ou de l'exonération de TVA, la location est obligatoirement taxable (art. 89-I-10°-d). L'option
+ne concerne donc que les locaux acquis sans avantage TVA.
+Exemple — Bailleur professionnel : Un investisseur qui possède un local commercial acheté il y a 20 ans
+(sans déduction de TVA) et le loue à une société peut opter pour l'assujettissement. Il facturera 20 % de
+TVA sur le loyer, et pourra déduire la TVA sur les travaux de rénovation. Son locataire assujetti récupérera
+la TVA facturée, ce qui rend le loyer TTC neutre pour lui.
+4.3. Portée de l'option
+L'option peut être globale ou partielle (C.717, confirmé NC 730) :
+Guide Pratique de la TVA au Maroc — 2026 Upsilon Consulting
+www.upsilon-consulting.com 13 / 57
+[[PAGE 14]]
+Elle peut porter sur l'ensemble des ventes ou prestations, ou seulement sur une partie ;
+Si l'opérateur exerce plusieurs activités exonérées ou hors champ, l'option peut ne viser qu'une seule
+activité ;
+L'option peut même porter sur une seule opération ou un seul client.
+Cette souplesse permet à l'opérateur d'adapter sa stratégie fiscale en fonction de la nature de ses clients
+(assujettis ou non) et de la structure de ses coûts.
+4.4. Modalités pratiques
+Élément Règle applicable
+Forme de la
+demande
+Lettre recommandée avec accusé de réception ou dépôt auprès du service local des
+impôts
+Prise d'effet 30 jours à compter de la date d'envoi ou de dépôt
+Moment À toute époque de l'année
+Durée minimale 3 années consécutives
+Cas des
+exportateurs
+L'option s'exerce de fait par la réalisation d'opérations d'exportation (pas de formalité
+spécifique pour les contribuables déjà identifiés)
+4.5. Conséquences de l'option et de la renonciation
+Pendant la période d'option :
+L'optant est soumis à toutes les obligations d'un assujetti : déclaration mensuelle ou trimestrielle,
+facturation avec TVA, tenue de la comptabilité aux normes, conservation des pièces justificatives ;
+Il bénéficie du droit à déduction dans les conditions de droit commun (art. 101 à 105).
+En cas de renonciation (après la période minimale de 3 ans) :
+L'optant doit procéder aux régularisations de cessation d'activité : reversement de la TVA déduite
+sur les immobilisations non intégralement amorties, régularisation des stocks ;
+La renonciation prend effet dans les mêmes conditions que l'option (demande recommandée, délai de
+30 jours).
+Conseil pratique : Avant d'opter, il est indispensable de réaliser une simulation financière comparant le
+coût de la TVA non déductible (en tant qu'exonéré) au coût des obligations de gestion (en tant
+qu'assujetti). L'option n'est avantageuse que si le montant de TVA récupérable excède significativement
+le coût administratif de la conformité.
+Guide Pratique de la TVA au Maroc — 2026 Upsilon Consulting
+www.upsilon-consulting.com 14 / 57
+[[PAGE 15]]
+Chapitre 5 — Exonérations sans droit à déduction (art. 91 du
+CGI)
+5.1. Principe
+L'article 91 du CGI énumère les opérations exonérées de la TVA sans droit à déduction. Le bénéficiaire
+de l'exonération ne collecte pas de TVA sur ses ventes, mais ne peut pas non plus déduire la TVA
+supportée sur ses achats. La TVA d'amont constitue donc un coût définitif qui s'incorpore dans le prix de
+revient.
+C.717 : « Les exonérations sont d'application restrictive et ne sauraient être étendues par voie d'analogie
+à des opérations non expressément visées par le Code. Sauf dérogations légales et expresses, les
+exonérations ne peuvent donner lieu à paiement volontaire de la TVA. »
+Ce chapitre est l'un des plus affectés par la réforme 2024-2026, avec plus de 30 modifications post-
+C.717. Il convient de se référer systématiquement aux NC 735, 736 et 737 pour le droit applicable en 2026.
+5.2. Produits de première nécessité (art. 91-I-A)
+1° Pain, farines, céréales, levures et pâtes de blé commun
+Sont exonérés : le pain, le couscous, les semoules et farines d'alimentation humaine, les céréales servant
+à leur fabrication, et les levures utilisées dans la panification.
+Définitions clés (C.717) :
+Pain : produit ne contenant que farine, levure, eau et sel. Les biscottes, bretzels, biscuits, pains au lait
+ou pâtisseries ne sont pas exonérés.
+Farines et semoules : provenant de la mouture de céréales (blé, seigle, avoine, orge, maïs, millet,
+etc.).
+Levures : levures naturelles, artificielles ou chimiques utilisées dans la panification. Les levures de
+brasserie ou de distillerie sont taxables.
+Modification LdF 2025 (NC 736) — Levure sèche exclue : Depuis le 01/01/2025, la levure sèche de
+panification est exclue de l'exonération et soumise au taux normal de 20 %. Seules les levures
+fraîches/naturelles restent exonérées. Cette mesure vise à supprimer la distorsion entre production locale
+et importation.
+Ajout LdF 2026 (NC 737) — Pâtes alimentaires de blé commun : Depuis le 01/01/2026, les pâtes
+alimentaires courtes, non cuites et non farcies à base de blé tendre sont exonérées sans droit à
+déduction.
+Exonérées : penne, fusilli, farfalle, macaroni, rigatoni, coquillettes
+Non concernées (taux 10 %) : pâtes longues (spaghetti, linguine, tagliatelle, lasagne, etc.)
+Guide Pratique de la TVA au Maroc — 2026 Upsilon Consulting
+www.upsilon-consulting.com 15 / 57
+[[PAGE 16]]
+Non concernées : pâtes farcies (ravioli, tortellini, cappelletti)
+2° Lait et beurre d'origine animale
+Sont exonérés : les laits et crèmes de lait (frais, conservés, concentrés, sucrés ou non), les laits spéciaux
+pour nourrissons, et le beurre de fabrication artisanale non conditionné.
+Ajout LdF 2024 (NC 735) : Le beurre dérivé du lait d'origine animale — toute substance grasse obtenue
+à partir du lait de vache, chèvre, bufflesse ou autres mammifères — est désormais exonéré (anciennement
+taxé à 14 %).
+Restent taxables à 20 % : graisses alimentaires (animales ou végétales), margarines, saindoux. Les
+produits dérivés (yaourts, fromages, raibi) ne sont pas visés par l'exonération.
+3° Sucre brut
+Le sucre de betterave, de canne et les sucres analogues (saccharose) sont exonérés. La mélasse et sous-
+produits sont exclus. Le sucre raffiné relève du taux de 10 % (art. 99-B-1°).
+4° Dattes conditionnées, raisins secs, figues sèches
+Les dattes conditionnées produites au Maroc, les raisins secs et figues sèches sont exonérés. Les dattes
+en vrac sont hors champ (produit agricole non transformé).
+5° Produits de la pêche
+Produits frais ou congelés, entiers ou découpés, sans transformation. Le poisson étêté ou vidé est
+considéré comme frais.
+6° Viande fraîche ou congelée
+Modification LdF 2025 (NC 736) : L'exonération couvre désormais la viande assaisonnée ou non
+assaisonnée. La viande crue traitée aux épices (sel, poivre, cumin, paprika) sans cuisson préalable reste
+exonérée.
+Restent taxables (20 %) : produits à base de viande obtenus par moyens industriels (cordon bleu,
+boulettes de viande au fromage), viandes séchées, fumées ou en conserve.
+7° Huile d'olive artisanale
+L'huile d'olive et sous-produits de trituration des olives fabriqués par les unités artisanales sont exonérés.
+L'usage de l'électricité ne confère pas un caractère industriel.
+8° Conserves de sardines (LdF 2024)
+Depuis le 01/01/2024 (NC 735), les conserves de sardines sont exonérées sans droit à déduction.
+L'exonération est strictement limitée aux sardines — les conserves de thon, maquereau ou autres
+poissons restent taxables.
+Guide Pratique de la TVA au Maroc — 2026 Upsilon Consulting
+www.upsilon-consulting.com 16 / 57
+[[PAGE 17]]
+9° Lait en poudre (LdF 2024)
+Depuis le 01/01/2024 (NC 735), le lait en poudre est exonéré. La TVA non apparente sur le lait non
+transformé d'origine locale utilisé pour la production ne donne pas droit à déduction (art. 125 ter).
+10° Savon de ménage (LdF 2024)
+Le savon de ménage en morceaux ou en pain est exonéré depuis le 01/01/2024 (NC 735). Il s'agit du savon
+à 72 % (type « savon de Marseille »), contenant au minimum 63 % d'acide gras et résinique.
+5.3. Autres produits exonérés de plein droit (art. 91-I-B et I-C)
+Bougies ordinaires et paraffines entrant dans leur fabrication (bougies décoratives exclues) ;
+Bois en grumes, écorcés ou équarris, liège à l'état naturel, bois de feu, charbon de bois ;
+Crin végétal (fibres de Halfa) ;
+Tapis artisanaux de production locale ;
+Métaux et matières de récupération — Depuis la LdF 2026 (NC 737), l'exonération est élargie aux
+matières non métalliques de récupération. Un régime d'auto-liquidation s'applique (art. 125 quinquies-
+II) : les entreprises industrielles de transformation auto-liquident la TVA à 20 % sur ces achats ;
+Ouvrages en métaux précieux fabriqués au Maroc (bijoux en platine, or, argent) ;
+Timbres fiscaux, papiers et impressions timbrés émis par l'État ;
+Prestations d'assurance relevant de la taxe sur les contrats d'assurance.
+5.4. Culture et éducation (art. 91-I-D et I-E)
+Presse, publications, livres
+Sont exonérés : les journaux, publications, livres, travaux de composition/impression/livraison, la musique
+imprimée, les CD-ROM reproduisant des publications.
+La C.717 définit le livre comme une « publication imprimée sous un titre, ayant pour objet l'enseignement
+ou la diffusion de la pensée et de la culture, impliquant essentiellement un travail intellectuel ». Les
+almanachs avec pages blanches, calendriers, agendas, annuaires et catalogues ne répondent pas à cette
+définition.
+Films documentaires ou éducatifs
+L'exonération vise les films à vocation culturelle ou éducative, qualifiés comme tels par le Centre
+cinématographique marocain. Les films de long métrage et publicitaires sont taxables.
+Fournitures scolaires (LdF 2024)
+Depuis le 01/01/2024 (NC 735), les fournitures scolaires (cahiers, stylos, cartables, etc.) et les produits et
+matières entrant dans leur composition sont exonérés à l'intérieur et à l'importation. Les fabricants doivent
+souscrire une demande par voie électronique et tenir un registre des matières acquises en exonération.
+Guide Pratique de la TVA au Maroc — 2026 Upsilon Consulting
+www.upsilon-consulting.com 17 / 57
+[[PAGE 18]]
+5.5. Social et santé
+Prestations médicales (art. 91-V)
+Sont exonérées les prestations fournies par les médecins, dentistes, masseurs kinésithérapeutes,
+orthoptistes, orthophonistes, infirmiers, herboristes, sages-femmes, exploitants de cliniques et maisons
+de santé, laboratoires d'analyses médicales.
+Le principe d'homogénéité (C.717) interdit de séparer l'acte médical des prestations accessoires au sein
+d'un même établissement hospitalier : frais de séjour, restauration, location du bloc opératoire et vente de
+médicaments suivent le même régime que l'acte de soin.
+Note : Depuis la LdF 2024, les produits pharmaceutiques sont exonérés avec droit à déduction (art. 92-I-
+19°, NC 735) — régime distinct de celui des actes médicaux.
+Hammams, douches publiques, fours traditionnels (art. 91-VI)
+Les recettes d'exploitation des hammams traditionnels (bains, fournitures accessoires : linge, savon,
+massage) sont exonérées. En revanche, les établissements dotés d'équipements modernes (sauna,
+thalassothérapie) sont taxables.
+Construction d'habitation principale ≤ 300 m² (art. 91-III)
+Les livraisons à soi-même de construction d'une habitation principale dont la superficie couverte n'excède
+pas 300 m² sont exonérées, sous conditions :
+Unité de logement indivisible avec autorisation de construire ;
+Affectation à l'habitation principale pendant 4 ans à compter du permis d'habiter.
+En cas de cession ou de location avant l'expiration du délai de 4 ans, des régularisations sont dues (TVA
+calculée sur le prix de cession ou le coût de l'ouvrage).
+5.6. Petits fabricants et prestataires ≤ 500 000 DH (art. 91-II-3°)
+Depuis la LdF 2020 (NC 730), les fabricants et prestataires personnes physiques dont le CA annuel ne
+dépasse pas 500 000 DH sont exonérés sans droit à déduction. Cette règle ne s'applique pas aux
+professions libérales (art. 89-I-12°).
+Un opérateur assujetti avant le 01/01/2020 ne peut remettre en cause son assujettissement que si son CA
+reste ≤ 500 000 DH pendant 3 années consécutives. L'option pour l'assujettissement volontaire reste
+possible (art. 90-2°).
+5.7. Opérations financières et sociales (art. 91-IV)
+Coopératives légalement constituées et fonctionnant conformément à la législation (conditions art.
+93) ;
+Associations à but non lucratif reconnues d'utilité publique, sociétés mutualistes, institutions
+sociales des salariés — hors opérations commerciales ;
+Guide Pratique de la TVA au Maroc — 2026 Upsilon Consulting
+www.upsilon-consulting.com 18 / 57
+[[PAGE 19]]
+Opérations d'escompte et prêts à l'État, intérêts des valeurs de l'État, prêts étudiants ;
+Micro-crédit — opérations des associations de micro-crédit (loi n° 18-97), exonération temporaire
+prorogée ;
+Sociétés sportives (loi n° 30-09) — exonération prorogée du 01/01/2026 au 31/12/2030 (NC 737, art.
+247-XXXXIV) ;
+Centres de gestion de comptabilité — exonération pendant 4 ans à compter de l'agrément.
+5.8. Redevances et droits de licence (art. 91-XI) — LdF 2024
+Depuis le 01/01/2024 (NC 735), les redevances et droits de licence (royalties) dont la valeur est incluse
+dans la base d'imposition de la TVA à l'importation sont exonérés de la TVA intérieure. Cette mesure vise à
+éviter la double taxation.
+L'exonération est plafonnée au montant de TVA acquitté à l'importation au titre des redevances.
+Exemple (NC 735) : Une entreprise importe du riz usiné avec une redevance de marque de 500 000 DH
+versée au fournisseur étranger. La TVA à l'importation inclut 100 000 DH au titre de ces royalties.
+L'exonération intérieure est limitée à ce montant de 100 000 DH.
+5.9. Tableau récapitulatif des exonérations sans droit à déduction
+Catégorie Produits / opérations Base légale
+Source
+autoritaire
+Produits de 1re
+nécessité
+Pain, farines, semoules, céréales, levures fraîches,
+pâtes courtes blé commun
+Art. 91-I-A-
+1°
+C.717 + NC 736 +
+NC 737
+Lait, crèmes de lait, beurre d'origine animale Art. 91-I-A-
+2°
+C.717 + NC 735
+Sucre brut (betterave, canne) Art. 91-I-A-
+3°
+C.717
+Dattes conditionnées, raisins secs, figues sèches Art. 91-I-A-
+4°
+C.717
+Produits de la pêche (frais/congelés) Art. 91-I-A-
+5°
+C.717
+Viande fraîche/congelée, assaisonnée ou non Art. 91-I-A-
+6°
+C.717 + NC 736
+Huile d'olive artisanale Art. 91-I-A-
+7°
+C.717
+Conserves de sardines Art. 91-I-A-
+8°
+NC 735
+Guide Pratique de la TVA au Maroc — 2026 Upsilon Consulting
+www.upsilon-consulting.com 19 / 57
+[[PAGE 20]]
+Catégorie Produits / opérations Base légale Source
+autoritaire
+Lait en poudre Art. 91-I-A-
+9°
+NC 735
+Savon de ménage (72 %) Art. 91-I-A-
+10°
+NC 735
+Autres produits Bougies ordinaires, paraffines Art. 91-I-B C.717
+Bois, liège, charbon de bois Art. 91-I-B C.717
+Tapis artisanaux de production locale Art. 91-I-B C.717
+Métaux et matières de récupération Art. 91-I-C-
+5°
+C.717 + NC 737
+Ouvrages en métaux précieux (Maroc) Art. 91-I-C C.717
+Culture /
+éducation
+Journaux, publications, livres, CD-ROM Art. 91-I-D C.717
+Films documentaires/éducatifs Art. 91-I-D C.717
+Fournitures scolaires Art. 91-I-E-
+4°
+NC 735
+Social / santé Prestations médicales (médecins, cliniques, labos) Art. 91-V C.717
+Hammams traditionnels, fours traditionnels Art. 91-VI C.717
+Construction habitation principale ≤ 300 m² Art. 91-III C.717
+Petits opérateurs Fabricants/prestataires PP ≤ 500 000 DH CA (hors
+prof. libérales)
+Art. 91-II-3° NC 730
+Financier / social Coopératives, associations, mutualistes Art. 91-IV C.717
+Micro-crédit, prêts étudiants Art. 91-IV C.717
+Sociétés sportives (jusqu'au 31/12/2030) Art. 247-
+XXXXIV
+NC 737
+Redevances/royalties (si TVA acquittée à l'import) Art. 91-XI NC 735
+Divers Timbres fiscaux, assurances, papier d'impression
+journaux
+Art. 91-I-C /
+I-E
+C.717
+Rappel important : Pour chaque changement de régime (passage d'un taux réduit à l'exonération SDD),
+des règles transitoires s'appliquent : les encaissements postérieurs au changement pour des ventes
+facturées avant restent à l'ancien régime (art. 125-III) ; les assujettis au régime de l'encaissement doivent
+Guide Pratique de la TVA au Maroc — 2026 Upsilon Consulting
+www.upsilon-consulting.com 20 / 57
+[[PAGE 21]]
+produire une liste de débiteurs avant le 1er mars (art. 125-IV) ; le prorata de déduction doit être recalculé
+(art. 104) ; et les stocks en cours doivent faire l'objet d'une régularisation de la TVA initialement déduite.
+Chapitre 6 — Exonérations avec droit à déduction (art. 92 du
+CGI)
+6.1 Principe fondamental
+L'exonération avec droit à déduction constitue le régime le plus avantageux pour l'assujetti : l'opérateur ne
+collecte pas de TVA sur ses ventes (prix facturé = prix HT), mais conserve intégralement le droit de
+déduire la TVA supportée sur ses achats et investissements. Ce mécanisme génère structurellement un
+crédit de TVA, remboursable dans les conditions de l'article 103 du CGI.
+Comparaison pratique : Contrairement à l'exonération sans droit à déduction (art. 91) où la TVA en
+amont est un coût définitif, l'exonération ADD (art. 92) permet de récupérer intégralement la TVA payée
+aux fournisseurs. C'est pourquoi les exportateurs, les entreprises en phase d'investissement et les
+secteurs stratégiques (santé, agriculture) bénéficient de ce régime.
+L'article 92 distingue deux catégories :
+Exonérations sans formalités (section I) : le bénéfice est automatique dès lors que les conditions
+sont remplies ;
+Exonérations avec formalités (section II) : une demande préalable, une attestation ou un visa
+administratif est requis.
+6.2 Export de produits et services (art. 92-I-1°)
+L'exportation est la pierre angulaire des exonérations ADD. Elle couvre la dernière vente ou prestation
+effectuée sur le territoire marocain ayant pour effet direct et immédiat de réaliser l'exportation (C.717).
+Export de produits
+Trois configurations sont visées :
+Vente FOB (Free On Board) : livraison à bord du navire, frais et risques postérieurs à la charge de
+l'acheteur étranger ;
+Vente CAF (Coût, Assurance, Fret) : le vendeur assure le chargement, paie le fret et l'assurance pour
+le compte de l'acheteur ;
+Export via commissionnaire : facturation du vendeur au commissionnaire marocain, avec tenue d'un
+registre spécial.
+Guide Pratique de la TVA au Maroc — 2026 Upsilon Consulting
+www.upsilon-consulting.com 21 / 57
+[[PAGE 22]]
+Justificatifs requis : titres de transport, bordereaux d'expédition, récépissés de la douane attestant la
+sortie effective des marchandises du territoire.
+Export de services
+Sont visées les prestations destinées à être exploitées ou utilisées en dehors du territoire marocain :
+études, expertise, édition, films publicitaires, conseil, marketing, contrôle de marchandises exportées,
+transit, courtage international, entreposage pour le compte d'entreprises étrangères.
+Justificatifs requis : facture au nom du client étranger + pièces de règlement en devises (virement
+bancaire, SWIFT).
+Exemple : Un cabinet de conseil marocain réalise une mission de diagnostic stratégique pour une société
+française. La facture de 200 000 DH est émise HT (0% TVA). Le cabinet récupère la TVA sur ses achats
+(loyer, fournitures, sous-traitance) sous forme de crédit de TVA remboursable.
+L'avitaillement de navires et aéronefs en partance vers l'étranger est assimilé à une exportation. En
+revanche, les fournitures aux bateaux de pêche en eaux territoriales et les opérations de
+cabotage/bornage sont exclues.
+6.3 Biens d'investissement — 36 mois + prorogation 24 mois (art. 92-I-6°)
+Ce régime est crucial pour toute entreprise en phase de création ou d'expansion. Les biens
+d'investissement inscrits dans un compte d'immobilisation sont exonérés de TVA pendant 36 mois à
+compter du début d'activité.
+Début d'activité
+Sans construction : date du premier acte commercial (première acquisition de biens ou services),
+hors frais de constitution et premiers frais d'installation (délai de tolérance de 3 mois) ;
+Avec construction : date de l'autorisation de construire.
+Conditions
+Biens amortissables inscrits en immobilisation ;
+Conservation pendant 5 ans suivant l'acquisition ;
+Affectation à la réalisation d'opérations soumises à la TVA ou exonérées art. 92/94 ;
+Comptabilité régulière, état descriptif en triple exemplaire, factures proforma ;
+Depuis le 01/01/2024 (NC 735) : constitution de garanties suffisantes (caution bancaire,
+nantissement, hypothèque, lettre de change avalisée, ou toute autre garantie acceptée par
+l'administration). Exception : conventions conclues avec l'État.
+Prorogation de 24 mois (NC 737 — LdF 2026)
+Le délai supplémentaire est désormais harmonisé à 24 mois (au lieu de 6 mois renouvelables) pour les
+entreprises construisant leurs projets ou réalisant des investissements dans le cadre d'une convention
+Guide Pratique de la TVA au Maroc — 2026 Upsilon Consulting
+www.upsilon-consulting.com 22 / 57
+[[PAGE 23]]
+avec l'État. La demande doit être formulée avant l'expiration du délai initial de 36 mois, accompagnée
+d'un rapport d'avancement des travaux et de la liste indicative des biens restant à acquérir.
+Exemple : Une société industrielle obtient son autorisation de construire le 01/03/2026. Ses achats
+d'équipements (machines, mobilier professionnel, matériel informatique) sont exonérés de TVA jusqu'au
+28/02/2029. Si le projet n'est pas achevé, elle peut demander une prorogation de 24 mois
+supplémentaires (jusqu'au 28/02/2031), sous réserve de justifier l'avancement.
+6.4 Produits pharmaceutiques (art. 92-I-19°) — Exonération totale depuis le
+01/01/2024
+La Loi de Finances 2024 a introduit une réforme majeure : depuis le 01/01/2024, tous les produits
+pharmaceutiques sont exonérés de TVA avec droit à déduction, à l'intérieur et à l'importation (NC 735).
+Conditions :
+Conformes aux normes législatives et réglementaires en vigueur ;
+Utilisés en médecine pour besoins curatifs ou préventifs (maladies humaines ou animales) ;
+Vendus exclusivement en pharmacie ou par des personnes autorisées.
+Exclusions : les produits parapharmaceutiques restent taxables. Les matières premières et intrants
+pharmaceutiques sont passés de 7% à 20% (suppression du taux réduit).
+Sang et dérivés (NC 737 — LdF 2026) : à compter du 01/01/2026, le sang et ses dérivés conformes aux
+normes en vigueur sont également exonérés ADD.
+Le crédit de TVA né au titre des ventes de produits pharmaceutiques exonérés ADD ouvre droit au
+remboursement (art. 103-1°).
+6.5 Agriculture : engrais, matières fertilisantes, matériel agricole
+Engrais et matières fertilisantes (art. 92-I-3° et I-4°)
+L'exonération couvre les engrais d'origine minérale, chimique, végétale ou animale, ainsi que les mélanges
+engrais + antiparasitaires si l'engrais est prédominant (>50%).
+Depuis le 01/01/2026 (NC 737) : l'exonération est élargie aux matières fertilisantes et supports de
+culture à usage agricole (loi n°53-18), incluant toute substance destinée à apporter des éléments nutritifs
+aux végétaux et tout matériau servant de milieu de culture.
+Matériel et produits agricoles (art. 92-I-5°)
+Une liste extensive comprenant : produits phytosanitaires, tracteurs, abris-serres, motopompes, semoirs,
+moissonneuses-batteuses, matériel de traite, extracteurs de miel, matériel de micro-irrigation par
+goutte à goutte (exonération limitée aux agriculteurs, NC 730), matériel d'irrigation par aspersion,
+polymères de rétention d'eau.
+Guide Pratique de la TVA au Maroc — 2026 Upsilon Consulting
+www.upsilon-consulting.com 23 / 57
+[[PAGE 24]]
+6.6 Logement social (art. 92-I-28° et art. 93)
+Le logement social bénéficie d'un mécanisme spécifique de restitution de TVA à l'acquéreur :
+Critère Condition
+Superficie couverte 50 à 100 m² (brute, incluant parties communes à 10% minimum)
+Prix de vente ≤ 250 000 DH HT
+Usage Habitation principale
+Affectation Habitation principale pendant 4 ans
+Acte notarié Compromis et contrat définitif obligatoirement notariés
+Garantie Hypothèque de 1er/2ème rang au profit de l'État
+L'État verse au bénéfice de l'acquéreur, via le notaire, le montant de la TVA grevant l'acquisition. Le
+contrat définitif doit être signé dans les 30 jours du virement de TVA.
+6.7 Transport international (art. 92-I-35°)
+L'exonération couvre le transport en provenance ou à destination de l'étranger (terrestre, aérien,
+maritime), y compris la partie du parcours sur le territoire marocain.
+Critère clé : l'existence d'un contrat unique de transport international. Même avec des trajets intérieurs,
+l'exonération est acquise si un seul contrat international a été conclu (C.717).
+Les prestations annexes sont également exonérées : pilotage, remorquage, manutention portuaire,
+atterrissage/stationnement aérien, entretien/réparation de camions et autocars internationaux,
+gardiennage, conditionnement. Les commissions sur ventes de billets internationaux perçues par les
+agences de voyages sont exonérées lorsqu'elles sont supportées par les compagnies de transport
+international.
+6.8 Zones franches d'exportation (art. 92-I-36°)
+Les produits livrés et services rendus aux zones franches depuis le territoire assujetti sont exonérés ADD.
+Les ZFE sont considérées comme territoire non assujetti. Les travaux de construction au sein des ZFE
+sont hors champ.
+6.9 Autres exonérations notables
+Bâtiments de mer (art. 92-I-33° et 34°)
+Vente, réparation et transformation de navires de transport, remorqueurs, bateaux-pilotes, navires de
+pêche, bateaux d'excursions touristiques. Sont exclus : embarcations sportives, bateaux de plaisance,
+hydroglisseurs, pédalos.
+Guide Pratique de la TVA au Maroc — 2026 Upsilon Consulting
+www.upsilon-consulting.com 24 / 57
+[[PAGE 25]]
+Films cinématographiques (art. 92-I-38°)
+Biens et services pour le tournage par des entreprises étrangères. Dépense minimale de 5 000 DH payée
+sur compte en devises. Autorisation délivrée dans les 48h.
+Détaxe touristes non-résidents (art. 92-I-39°)
+Achat au détail ≥ 2 000 DH TTC, même jour, même vendeur. Restitution via Global Blue ou Morocco
+Tourist Refund. Bordereau visé par la douane avant le 3ème mois suivant l'achat.
+Restauration au personnel salarié (art. 92-I-41°)
+Prestations de restauration fournies directement par l'entreprise à son personnel, dans l'établissement ou
+des locaux de l'entreprise.
+Véhicules neufs à usage de taxi (art. 92-I-42°)
+Engagement d'affectation exclusive à usage de taxi pendant 60 mois. Copie de la carte grise et
+attestation d'assurance jointes à la déclaration IR annuelle.
+6.10 Tableau récapitulatif des exonérations ADD
+Catégorie Opérations principales
+Référence
+CGI Formalités
+Export &
+International
+Export de produits et services Art. 92-I-1° Sans formalités (justificatifs
+douane/devises)
+Transport international Art. 92-I-35° Avec formalités
+Zones franches d'exportation Art. 92-I-36° Avec formalités
+Détaxe touristes Art. 92-I-39° Avec formalités (Global Blue)
+Santé Tous produits pharmaceutiques
+(depuis 01/01/2024)
+Art. 92-I-19° Sans formalités
+Sang et dérivés (depuis
+01/01/2026)
+Art. 92-I-19° Sans formalités
+Équipements hémodialyse Art. 92-I-18° Sans formalités
+Agriculture Engrais, matières fertilisantes,
+supports de culture
+Art. 92-I-
+3°/4°
+Sans formalités (engrais) / Avec
+(matières fertilisantes)
+Matériel et produits agricoles Art. 92-I-5° Avec formalités
+Investissement Biens d'investissement (36 mois +
+24 mois)
+Art. 92-I-6° Avec formalités + garanties
+Équipements enseignement privé Art. 92-I-8° Avec formalités
+Guide Pratique de la TVA au Maroc — 2026 Upsilon Consulting
+www.upsilon-consulting.com 25 / 57
+[[PAGE 26]]
+Catégorie Opérations principales Référence
+CGI
+Formalités
+Équipements diplômés formation
+professionnelle
+Art. 92-I-9° Avec formalités (24 mois)
+Logement Logement social (50-100 m²,
+≤250K DH)
+Art. 92-I-28° Avec formalités (notaire,
+hypothèque)
+Cités/résidences universitaires Art. 92-I-29° Avec formalités (convention État)
+Maritime Bâtiments de mer, engins/filets de
+pêche
+Art. 92-I-
+33°/34°
+Avec formalités
+Divers Films cinématographiques
+(tournages étrangers)
+Art. 92-I-38° Avec formalités (48h)
+Véhicules neufs taxis (60 mois) Art. 92-I-42° Avec formalités
+Restauration au personnel salarié Art. 92-I-41° Sans formalités
+Chapitre 7 — Le régime suspensif (art. 94 du CGI)
+7.1 Définition et principe
+Le régime suspensif permet à certains opérateurs d'acheter en suspension de TVA, c'est-à-dire sans
+payer la taxe sur leurs achats. Il ne s'agit pas d'une exonération : la TVA reste juridiquement exigible,
+mais son paiement est suspendu tant que les conditions sont respectées. Si les conditions cessent d'être
+remplies, la taxe devient immédiatement due.
+Différence clé : L'exonération ADD (art. 92) supprime définitivement la TVA sur les ventes et génère un
+crédit remboursable. Le régime suspensif (art. 94) empêche la TVA de naître en amont, évitant ainsi le
+décalage de trésorerie lié au crédit de TVA. L'objectif est le même — ne pas pénaliser les exportateurs —
+mais le mécanisme est différent.
+7.2 Bénéficiaires
+Le régime suspensif est ouvert aux :
+Exportateurs de produits — entreprises dont une partie ou la totalité du chiffre d'affaires provient de
+la vente de marchandises à l'exportation ;
+Exportateurs de services — entreprises dont le chiffre d'affaires provient de prestations exploitées ou
+utilisées hors du territoire marocain.
+Guide Pratique de la TVA au Maroc — 2026 Upsilon Consulting
+www.upsilon-consulting.com 26 / 57
+[[PAGE 27]]
+7.3 Plafond d'achat en suspension
+Le montant des achats en suspension est plafonné au chiffre d'affaires d'exportation réalisé au cours
+de l'année précédente (n-1). Ce plafond est apprécié annuellement.
+Exemple : Une entreprise textile a réalisé un CA export de 5 000 000 DH en 2025. En 2026, elle peut
+acheter en suspension de TVA pour un montant total de 5 000 000 DH (matières premières, emballages,
+services liés). Au-delà de ce plafond, elle devra payer la TVA normalement et se faire rembourser le
+crédit de TVA.
+7.4 Opérations couvertes
+Les achats en suspension peuvent porter sur :
+Les marchandises destinées à l'exportation ;
+Les matières premières entrant dans la fabrication des produits exportés ;
+Les emballages irrécupérables utilisés pour le conditionnement des produits exportés ;
+Les services nécessaires à la réalisation de l'exportation (transport, entreposage, conditionnement,
+etc.).
+En revanche, les biens d'investissement, les fournitures de bureau et les frais généraux ne sont pas
+éligibles au régime suspensif — ils relèvent de l'exonération ADD de l'article 92-I-6° (biens
+d'investissement 36 mois) ou du régime de droit commun avec déduction.
+7.5 Conditions d'éligibilité
+L'accès au régime suspensif est soumis à des conditions strictes (C.717, confirmées par les notes
+circulaires ultérieures) :
+Condition Détail
+Catégorisation DGI L'entreprise doit être catégorisée auprès de la Direction Générale des Impôts
+(attestation de catégorisation en cours de validité)
+Régularité fiscale Situation régulière vis-à-vis de l'ensemble des impôts et taxes
+Comptabilité
+régulière
+Tenue d'une comptabilité conforme aux normes en vigueur
+Compte matières Tenue obligatoire d'un compte matières retraçant les mouvements de stocks (entrées,
+sorties, affectation)
+Attestation
+annuelle
+Attestation d'achat en suspension délivrée par le service des impôts, valable pour
+l'année de délivrance
+Guide Pratique de la TVA au Maroc — 2026 Upsilon Consulting
+www.upsilon-consulting.com 27 / 57
+[[PAGE 28]]
+7.6 Fonctionnement pratique
+Le processus se déroule comme suit :
+1. L'exportateur obtient son attestation d'achat en suspension auprès du service local des impôts ;
+2. Il remet une copie de cette attestation à ses fournisseurs marocains ;
+3. Les fournisseurs facturent sans TVA (mention « Vente en suspension de TVA — art. 94 du CGI ») ;
+4. L'exportateur inscrit ces achats dans son compte matières ;
+5. Les marchandises acquises en suspension doivent être effectivement exportées.
+7.7 Sanctions en cas de détournement
+Si les matières ou marchandises acquises en suspension sont affectées à une destination autre que
+l'exportation, l'entreprise doit procéder à la régularisation avant la fin du mois suivant la livraison sur le
+marché local. La TVA correspondante est alors due, majorée des pénalités et majorations de retard
+prévues par le CGI.
+Le défaut de tenue du compte matières ou la falsification des données peut entraîner le retrait de
+l'attestation et l'exclusion du régime suspensif.
+7.8 Comparaison : régime suspensif vs exonération ADD
+Critère Régime suspensif (art. 94) Exonération ADD (art. 92)
+Nature Suspension du paiement de la TVA en
+amont
+Exonération des ventes + droit à déduction
+de la TVA amont
+TVA sur les
+achats
+Non payée (achat HT) Payée puis déduite/remboursée
+Impact trésorerie Aucun décalage Décalage lié au délai de remboursement du
+crédit
+Plafond CA export n-1 Pas de plafond
+Opérations
+couvertes
+Marchandises, matières premières,
+emballages, services liés
+Toutes les opérations éligibles (y compris
+investissements)
+Conditions Catégorisation DGI, compte matières,
+attestation annuelle
+Variables selon l'opération
+Risque Régularisation + pénalités en cas de
+détournement
+Crédit de TVA potentiellement long à
+rembourser
+Conseil pratique : Pour un exportateur important, la combinaison des deux régimes est optimale :
+régime suspensif (art. 94) pour les achats de matières premières et marchandises (dans la limite du CA
+Guide Pratique de la TVA au Maroc — 2026 Upsilon Consulting
+www.upsilon-consulting.com 28 / 57
+[[PAGE 29]]
+export n-1), et exonération ADD (art. 92-I-6°) pour les biens d'investissement. Cette stratégie minimise
+le crédit de TVA et préserve la trésorerie.
+Chapitre 8 — Les taux de TVA (art. 99 du CGI)
+8.1 Vue d'ensemble : de 4 taux à 2 taux
+La Loi de Finances 2024 a engagé une réforme structurelle des taux de TVA, déployée progressivement
+sur la période 2024-2026 (NC 735). Cette réforme poursuit trois objectifs :
+1. Objectif social : exonérer les produits de base (médicaments, fournitures scolaires, eau domestique) ;
+2. Neutralité économique : réduire l'effet butoir en alignant les taux — convergence de 4 taux (7%, 10%,
+14%, 20%) vers 2 taux (20% et 10%) ;
+3. Équité fiscale : intégrer l'informel (auto-liquidation, retenue à la source TVA).
+Depuis le 1er janvier 2026, le système marocain de TVA repose sur deux taux effectifs : le taux normal de
+20% et le taux réduit de 10%, auxquels s'ajoutent les exonérations (avec ou sans droit à déduction).
+8.2 Taux normal — 20% (art. 99-A)
+Le taux de 20% est le taux résiduel : il s'applique à toutes les opérations imposables qui ne bénéficient
+pas d'un taux réduit ou d'une exonération. Ce principe, posé par la C.717, reste inchangé.
+Sont notamment soumises au taux de 20% :
+Les ventes de produits industriels et manufacturés ;
+Les prestations de services (professions libérales, conseil, informatique, publicité, etc.) ;
+Les travaux immobiliers et la promotion immobilière ;
+Les locations meublées et professionnelles ;
+Le transport hors urbain/routier (depuis 2026, après transition 16%→18%→20%) ;
+Les matières premières et intrants pharmaceutiques (depuis 01/01/2024, passage de 7% à 20%).
+8.3 Taux réduit — 10% avec droit à déduction (art. 99-B-1°)
+Hébergement et restauration
+Toutes les opérations d'hébergement (hôtels, résidences touristiques, auberges, maisons d'hôtes,
+pensions, motels, gîtes, campings) et de restauration (restaurants, cafés depuis 2020, restauration rapide,
+traiteurs pour plats cuisinés).
+Précisions importantes (C.717) :
+Recettes accessoires hôtelières (téléphone, change, blanchisserie, coffres-forts) = 10% ;
+Location de locaux à bureaux de change ou boutiques dans les hôtels = 20% ;
+Guide Pratique de la TVA au Maroc — 2026 Upsilon Consulting
+www.upsilon-consulting.com 29 / 57
+[[PAGE 30]]
+Traiteurs : location de matériel (linge, tentes, couverts) et mise à disposition de personnel = 20%.
+Banque, crédit et finance
+Opérations de banque et de crédit, commissions de change, transactions sur valeurs mobilières (sociétés
+de bourse), transactions actions/parts OPCVM. Depuis la LdF 2020 (NC 730), les produits de finance
+participative (Mourabaha, Salam, Istisna'a) sont également à 10%. L'Ijara Mountahia Bitamlik pour
+l'habitation personnelle est à 10% depuis la LdF 2024 (NC 735).
+Produits alimentaires
+Produit Taux
+2026
+Observation
+Huiles fluides alimentaires (sauf huile de
+palme)
+10% Inchangé
+Sel de cuisine (gemme ou marin) 10% Inchangé
+Riz usiné 10% Inchangé
+Pâtes alimentaires (sauf blé commun) 10% Pâtes blé commun exonérées SDD (art. 91)
+Sucre raffiné 10% Transition : 8% (2024) → 9% (2025) → 10%
+(2026)
+Aliments pour bétail/basse-cour, tourteaux 10% Inchangé
+Énergie et environnement
+Produit Taux 2026 Observation
+Panneaux photovoltaïques 10% Ancien 14%, passé à 10% (NC 735)
+Chauffe-eaux solaires 10% Ancien 14% (NC 732)
+Gaz de pétrole / hydrocarbures gazeux 10% Inchangé
+Énergie électrique renouvelable 10% Transition : 12% (2024-2025) → 10% (2026)
+Transport urbain et routier
+Le transport urbain et routier de voyageurs et de marchandises atteint le taux de 10% en 2026, après une
+transition progressive : 13% (2024) → 12% (2025) → 10% (2026) — art. 247-XXXXI-G.
+Voiture économique
+L'acquisition de la voiture économique et de ses composants/montage est soumise au taux de 10%
+(ancien 7%, NC 735). Le fabricant doit tenir un compte matières et ses achats au taux réduit sont limités
+au CA de l'année écoulée.
+Guide Pratique de la TVA au Maroc — 2026 Upsilon Consulting
+www.upsilon-consulting.com 30 / 57
+[[PAGE 31]]
+Autres opérations à 10%
+Eau de distribution publique (hors domestique) et assainissement ;
+Matériel agricole spécifique (liste extensive du CGI) ;
+Engins et filets de pêche professionnels ;
+Bois en grumes, liège naturel, charbon de bois ;
+Oeuvres et objets d'art ;
+Billets d'entrée aux musées, cinéma et théâtre (depuis 2020).
+8.4 Taux réduit — 10% sans droit à déduction (art. 99-B-2°)
+Cette catégorie, créée par la LdF 2024, ne concerne en pratique qu'une seule opération : les prestations
+des courtiers et agents démarcheurs d'assurances. Ces prestations sont passées de 14% à 10% après
+une transition (12% en 2024-2025, 10% en 2026 — art. 247-XXXXI-H).
+Le courtier d'assurance facture la TVA à 10% sur ses commissions, mais ne peut pas déduire la TVA sur
+ses propres achats. Ce régime hybride reflète la nature particulière de l'intermédiation en assurance.
+8.5 Calendrier transitoire 2024-2026
+Opération Ancien taux 2024 2025 2026
+Sucre raffiné 7% 8% 9% 10%
+Transport (hors urbain/routier) 14% 16% 18% 20%
+Transport urbain/routier 14% 13% 12% 10%
+Énergie électrique renouvelable 14% 12% 12% 10%
+Courtiers assurances 14% 12% 12% 10% (SDD)
+Produits pharmaceutiques 7% (certains) Exonéré ADD (immédiat depuis 01/01/2024)
+Fournitures scolaires 7% Exonéré SDD (immédiat depuis 01/01/2024)
+Intrants pharmaceutiques 7% 20% (immédiat depuis 01/01/2024)
+Voiture économique 7% 10% (immédiat depuis 01/01/2024)
+8.6 Tableau de correspondance ancien → nouveau taux
+Ancien taux Nouveau régime
+2026
+Exemples
+7%
+(supprimé)
+Exonéré ADD Produits pharmaceutiques
+Guide Pratique de la TVA au Maroc — 2026 Upsilon Consulting
+www.upsilon-consulting.com 31 / 57
+[[PAGE 32]]
+Ancien taux Nouveau régime
+2026
+Exemples
+Exonéré SDD Conserves sardines, lait en poudre, savon ménage, fournitures scolaires
+10% Voiture économique, eau distribution, sucre raffiné
+20% Intrants pharmaceutiques
+14%
+(supprimé)
+10% Transport urbain/routier, énergie renouvelable, panneaux
+photovoltaïques, courtiers assurances
+20% Transport hors urbain/routier
+Exonéré SDD Beurre (sauf artisanal, déjà exonéré)
+8.7 Tableau de synthèse des taux TVA — 2026
+Taux Régime déduction Opérations principales
+20% Avec droit à déduction Industrie, commerce, services (principe résiduel)
+Professions libérales (toutes)
+Travaux immobiliers, promotion immobilière
+Locations meublées / professionnelles
+Transport hors urbain/routier
+Intrants pharmaceutiques, levure sèche
+10% Avec droit à déduction Hébergement et restauration, cafés
+Opérations de banque/crédit, finance participative
+Huiles alimentaires, sel, riz, pâtes (hors blé commun), sucre raffiné
+Énergie : gaz, hydrocarbures, photovoltaïque, renouvelable
+Transport urbain et routier (voyageurs/marchandises)
+Voiture économique
+Eau distribution publique, matériel agricole, pêche
+Sans droit à déduction Courtiers et démarcheurs d'assurances
+Guide Pratique de la TVA au Maroc — 2026 Upsilon Consulting
+www.upsilon-consulting.com 32 / 57
+[[PAGE 33]]
+Chapitre 9 — La déduction de la TVA et ses limitations
+9.1 Principe du droit à déduction (art. 101)
+Le mécanisme de la TVA repose sur le principe de la déduction en cascade : à chaque stade de la chaîne
+économique, l'assujetti ne reverse au Trésor que la différence entre la TVA collectée sur ses ventes et la
+TVA déductible sur ses achats.
+Formule fondamentale :
+TVA due = TVA collectée (sur les ventes) − TVA déductible (sur les achats)
+Si la TVA déductible est supérieure à la TVA collectée, il se forme un crédit de TVA (art. 103), reportable
+indéfiniment ou remboursable sous conditions.
+9.2 Conditions de fond
+Pour être déductible, la TVA doit avoir grevé des biens ou services :
+Utilisés pour les besoins de l'exploitation — c'est-à-dire affectés à la réalisation d'opérations
+taxables ou exonérées avec droit à déduction (art. 92) ;
+Nécessaires à l'activité professionnelle — le lien entre l'achat et l'activité doit être direct et certain ;
+Payés à un assujetti — la TVA portée sur une facture émise par un non-assujetti n'est pas déductible.
+9.3 Conditions de forme
+Facture conforme
+La TVA n'est déductible que si elle figure sur une facture régulière comportant les mentions obligatoires :
+identification du fournisseur (ICE, IF, RC), date, nature et prix des biens/services, montant de la TVA avec
+indication du taux, identité du client.
+Règle de paiement non en espèces (art. 106-II)
+Le droit à déduction est exclu pour les achats, travaux ou prestations de services dont le montant est
+supérieur à 5 000 DH TTC et dont le règlement est effectué en espèces. Le paiement doit être effectué
+par chèque barré non endossable, effet de commerce, virement bancaire, procédé électronique ou
+compensation.
+Attention : Cette règle s'applique par facture, non par paiement. Un achat de 6 000 DH payé en deux
+versements de 3 000 DH en espèces ne permet pas de contourner la limite.
+Guide Pratique de la TVA au Maroc — 2026 Upsilon Consulting
+www.upsilon-consulting.com 33 / 57
+[[PAGE 34]]
+Délai de déduction
+La TVA figurant sur les factures d'achat est déductible au titre du mois ou du trimestre au cours duquel
+elle a été acquittée. En cas d'omission, la déduction peut être exercée dans le délai de l'année suivant
+celle de l'établissement de la facture.
+9.4 Exclusions du droit à déduction (art. 106)
+Certaines catégories de dépenses sont exclues du droit à déduction, même si elles sont engagées dans
+le cadre de l'activité professionnelle :
+Dépense exclue Détail Exception
+Véhicules de tourisme Acquisition, location,
+entretien, réparation des
+véhicules de tourisme (VP)
+Véhicules utilisés pour le transport public, le
+transport de personnel, l'ambulance, le véhicule
+utilitaire, le véhicule de démonstration des
+concessionnaires
+Produits pétroliers Gasoil, essence, lubrifiants
+non utilisés comme
+combustibles, matières
+premières ou agents de
+fabrication
+Gasoil utilisé pour les besoins d'exploitation des
+véhicules de transport de marchandises/voyageurs,
+des véhicules utilitaires, et comme
+combustible/matière première dans les processus
+industriels
+Achats/prestations
+non professionnels
+Biens et services non utilisés
+pour les besoins de
+l'exploitation
+Aucune
+Cadeaux publicitaires
+> 100 DH TTC
+Cadeaux, dons et libéralités
+dont la valeur unitaire
+dépasse 100 DH TTC
+Cadeaux publicitaires de faible valeur (≤ 100 DH)
+portant le nom ou le sigle de l'entreprise
+Frais de réception et
+de représentation
+Dépenses de réception non
+directement liées à
+l'exploitation
+Frais de réception engagés dans le cadre strict de
+l'exploitation et dûment justifiés
+Paiement en espèces
+> 5 000 DH
+Toute facture ≥ 5 000 DH
+TTC réglée en espèces
+Aucune
+Exemple : Une société de conseil achète un véhicule de tourisme pour 300 000 DH TTC (dont 50 000
+DH de TVA). Cette TVA n'est pas déductible. En revanche, si la société exploite un service de transport
+de personnel avec un minibus, la TVA sur le véhicule est intégralement déductible.
+9.5 Le prorata de déduction (art. 104) — Assujettis mixtes
+Lorsqu'un assujetti réalise simultanément des opérations ouvrant droit à déduction (taxables ou
+exonérées ADD) et des opérations n'ouvrant pas droit à déduction (exonérées SDD), il est dit assujetti
+Guide Pratique de la TVA au Maroc — 2026 Upsilon Consulting
+www.upsilon-consulting.com 34 / 57
+[[PAGE 35]]
+mixte. Dans ce cas, la TVA déductible est déterminée par application d'un prorata de déduction.
+Formule du prorata
+Prorata = (Numérateur / Dénominateur) × 100
+Numérateur : CA taxable (TTC) + CA exonéré avec droit à déduction (art. 92) + CA en suspension (art.
+94)
+Dénominateur : Numérateur + CA exonéré sans droit à déduction (art. 91)
+Le résultat est arrondi au centième supérieur (exemple : 78,125% → 78,13%).
+Exemple chiffré :
+Une entreprise réalise :
+CA taxable (TTC) : 2 400 000 DH
+CA exonéré ADD (export) : 600 000 DH
+CA exonéré SDD : 400 000 DH
+Prorata = (2 400 000 + 600 000) / (2 400 000 + 600 000 + 400 000) = 3 000 000 / 3 400 000 =
+88,24%
+Si cette entreprise achète du matériel pour 120 000 DH TTC (dont 20 000 DH de TVA), la TVA déductible
+est : 20 000 × 88,24% = 17 648 DH.
+Application du prorata
+Le prorata s'applique aux charges communes (loyer, fournitures, frais généraux). Pour les achats
+exclusivement affectés à une activité ouvrant droit à déduction, la TVA est intégralement déductible.
+Pour ceux exclusivement affectés à une activité SDD, aucune déduction n'est permise.
+9.6 Régularisations
+Variation du prorata (> 5 points)
+Lorsque le prorata de déduction d'une année donnée varie de plus de 5 points par rapport au prorata
+initial (année d'acquisition), une régularisation est requise sur les biens d'investissement :
+Hausse du prorata > 5 points : déduction complémentaire autorisée (1/5ème de la différence par
+année restante) ;
+Baisse du prorata > 5 points : reversement d'une fraction de la TVA initialement déduite (1/5ème par
+année restante).
+La période de régularisation est de 5 ans pour les biens meubles et de 10 ans (depuis la LdF 2024) pour
+les biens immeubles.
+Guide Pratique de la TVA au Maroc — 2026 Upsilon Consulting
+www.upsilon-consulting.com 35 / 57
+[[PAGE 36]]
+Cession d'immobilisation dans les 5 ans
+Si un bien d'investissement ayant donné lieu à déduction est cédé, détruit ou retiré de l'exploitation avant
+l'expiration de la période de conservation (5 ans pour les meubles, 10 ans pour les immeubles),
+l'entreprise doit reverser au Trésor une fraction de la TVA déduite, calculée au prorata du nombre
+d'années ou fractions d'années restant à courir.
+Exemple : Une machine achetée en janvier 2024 pour 600 000 DH HT (TVA déduite : 120 000 DH) est
+revendue en mars 2026. Temps écoulé : 2 ans sur 5. Reversement = 120 000 × (3/5) = 72 000 DH.
+9.7 Crédit de TVA (art. 103)
+Lorsque la TVA déductible excède la TVA collectée, le solde constitue un crédit de TVA. Ce crédit peut
+être :
+Reporté indéfiniment sur les déclarations suivantes (pas de prescription) ;
+Remboursé dans les cas suivants :
+Crédit né des opérations exonérées ADD (art. 92) — exportateurs, investissement, pharmaceutique
+;
+Crédit né du décalage de taux (achats à 20%, ventes à 10%) ;
+Crédit accumulé pendant au moins 4 trimestres consécutifs ;
+Cessation d'activité.
+La demande de remboursement est déposée auprès du service des impôts, accompagnée d'un relevé
+détaillé des factures d'achat et du calcul du crédit.
+Chapitre 10 — La base imposable (art. 96 à 98 du CGI)
+10.1 Principe général
+La base imposable est le montant sur lequel le taux de TVA est appliqué. Elle comprend le prix des
+marchandises, travaux ou services, augmenté de certains frais et charges accessoires, et diminué de
+certains éléments limitativement énumérés. L'objectif est de taxer la valeur réelle de la transaction.
+10.2 Éléments inclus dans la base imposable (art. 96)
+La base imposable comprend :
+Élément Détail
+Prix de vente HT Montant total facturé au client, hors TVA
+Guide Pratique de la TVA au Maroc — 2026 Upsilon Consulting
+www.upsilon-consulting.com 36 / 57
+[[PAGE 37]]
+Élément Détail
+Frais de transport Frais de transport mis à la charge de l'acheteur, y compris le transport effectué par
+les propres moyens du vendeur
+Frais d'emballage non
+récupérable
+Emballages perdus (cartons, films plastiques, caisses non consignées) facturés au
+client
+Droits et taxes Tous droits et taxes supportés par le produit (sauf la TVA elle-même) : droits de
+douane, taxes intérieures de consommation, taxes parafiscales
+Compléments de prix Intérêts pour paiement à terme, frais d'assurance, frais de commission,
+compléments et majorations de toute nature
+Subventions liées au
+prix
+Subventions versées en contrepartie d'un prix inférieur au prix normal
+(complément de prix)
+Exemple : Une entreprise vend des marchandises pour 100 000 DH HT, avec des frais de transport de 5
+000 DH et des emballages perdus de 2 000 DH. La base imposable à la TVA est : 100 000 + 5 000 + 2
+000 = 107 000 DH. TVA à 20% = 21 400 DH. Montant TTC = 128 400 DH.
+10.3 Éléments exclus de la base imposable (art. 96)
+Élément exclu Détail
+Rabais, remises
+et ristournes
+Réductions de prix figurant sur la facture ou accordées postérieurement (avoir). Conditions
+: réduction effectivement accordée, justifiée, individualisée
+Emballages
+consignés
+Emballages identifiables et récupérables (bouteilles, fûts, palettes consignées), facturés
+séparément et restitués par le client. La consignation n'est pas un prix de vente.
+Débours Sommes avancées par un intermédiaire pour le compte de son client, refacturées à
+l'identique sans marge (droits d'enregistrement avancés par un notaire, frais de timbres).
+Conditions : mandat, comptabilisation séparée, remboursement exact
+Escomptes de
+règlement
+Réductions de prix pour paiement anticipé, dès lors qu'elles figurent sur la facture
+Attention : Si un emballage consigné n'est pas restitué dans le délai convenu, la consignation est
+réintégrée dans la base imposable et soumise à la TVA.
+Guide Pratique de la TVA au Maroc — 2026 Upsilon Consulting
+www.upsilon-consulting.com 37 / 57
+[[PAGE 38]]
+10.4 Cas particuliers
+Livraison à soi-même (LASM)
+Lorsqu'un assujetti produit ou construit un bien pour son propre usage (art. 89-I-7°), la base imposable
+est le prix de revient du bien, comprenant :
+Le coût des matières premières et fournitures ;
+Les frais de main-d'oeuvre directe ;
+Les frais généraux de fabrication ;
+Pour les constructions : le coût du terrain est exclu de la base imposable.
+Exemple : Un promoteur immobilier construit un immeuble pour son propre siège social. Coûts : terrain 2
+000 000 DH, matériaux 3 000 000 DH, main-d'oeuvre 1 500 000 DH, frais généraux 500 000 DH. Base
+imposable LASM = 3 000 000 + 1 500 000 + 500 000 = 5 000 000 DH (le terrain est exclu). TVA = 1 000
+000 DH.
+Échanges
+En cas d'échange, la base imposable est constituée par la valeur des biens ou services reçus en
+contrepartie, majorée éventuellement de la soulte (différence en numéraire). Chaque partie est redevable
+de la TVA sur la valeur du bien qu'elle livre.
+Exemple : L'entreprise A livre des marchandises d'une valeur de 150 000 DH HT à l'entreprise B, qui livre
+en retour des marchandises d'une valeur de 120 000 DH HT + une soulte de 30 000 DH. La base TVA
+pour A est 150 000 DH ; pour B, 120 000 DH.
+Commission et entremise
+Pour les commissionnaires, courtiers et intermédiaires, la base imposable est constituée par :
+Commissionnaire (agit en son nom pour le compte d'autrui) : le prix total de la vente ou de l'achat
+réalisé pour le compte du commettant ;
+Courtier / mandataire transparent : le montant de la commission, du courtage ou de la rémunération
+(pas le prix de la marchandise).
+Importations (art. 121)
+Pour les biens importés, la base imposable est constituée par :
+Base TVA import = Valeur en douane + Droits de douane + Taxes intérieures de consommation +
+Toutes taxes et redevances (sauf TVA)
+La valeur en douane est généralement la valeur transactionnelle (prix effectivement payé ou à payer,
+ajusté des frais de transport, assurance et frais de chargement/manutention jusqu'au point d'introduction
+Guide Pratique de la TVA au Maroc — 2026 Upsilon Consulting
+www.upsilon-consulting.com 38 / 57
+[[PAGE 39]]
+sur le territoire marocain).
+Exemple : Une entreprise importe des marchandises :
+Valeur en douane : 500 000 DH
+Droits de douane (25%) : 125 000 DH
+Taxe intérieure de consommation : 10 000 DH
+Base imposable TVA = 500 000 + 125 000 + 10 000 = 635 000 DH
+TVA à 20% = 127 000 DH
+Coût total à l'importation = 500 000 + 125 000 + 10 000 + 127 000 = 762 000 DH
+10.5 Règles particulières de facturation
+Quelques points d'attention pour la détermination de la base imposable :
+Prix exprimé TTC : si le prix convenu est un prix toutes taxes comprises, la base HT est obtenue par la
+formule : Base HT = Prix TTC / (1 + taux TVA). Exemple : prix TTC de 12 000 DH au taux de 20% →
+Base HT = 12 000 / 1,20 = 10 000 DH ;
+Opérations en devises : la base imposable est convertie en dirhams au cours de change en vigueur à
+la date d'exigibilité de la taxe ;
+Avoirs et notes de crédit : les avoirs accordés postérieurement à la facturation (pour retours, défauts,
+remises complémentaires) viennent en déduction de la base imposable de la période au cours de
+laquelle ils sont émis ;
+Acomptes et avances : les acomptes perçus avant la livraison sont soumis à la TVA au moment de
+leur encaissement (régime des débits) ou au moment de la livraison (régime de droit commun selon
+l'encaissement).
+10.6 Synthèse : détermination de la base imposable
+Opération Base imposable
+Vente de biens Prix HT + transport + emballages perdus + droits/taxes − rabais/remises − escomptes
+Prestation de services Prix HT de la prestation + compléments de prix + frais accessoires
+Livraison à soi-même Prix de revient (matières + main-d'oeuvre + frais généraux, hors terrain)
+Échange Valeur du bien livré (+ soulte éventuelle)
+Commission / courtage Montant de la commission ou du courtage
+Importation Valeur en douane + droits de douane + taxes (hors TVA)
+Travaux immobiliers Prix des travaux HT, y compris fournitures (hors prix du terrain pour LASM)
+Guide Pratique de la TVA au Maroc — 2026 Upsilon Consulting
+www.upsilon-consulting.com 39 / 57
+[[PAGE 40]]
+Chapitre 11 — Fait générateur et exigibilité de la TVA
+La distinction entre fait générateur et exigibilité est fondamentale pour déterminer quand la TVA doit être
+déclarée et versée au Trésor. Une mauvaise appréhension de ces notions peut entraîner des majorations
+de retard ou, à l'inverse, un paiement anticipé pénalisant la trésorerie de l'entreprise.
+11.1 Définitions et distinction
+Le fait générateur est l'événement qui donne naissance à la créance fiscale au profit du Trésor. Il
+détermine le régime fiscal applicable (taux, exonérations) au moment où l'opération est réalisée.
+L'exigibilité est le droit que le Trésor peut faire valoir pour obtenir le paiement de la taxe. Elle détermine la
+période au titre de laquelle la TVA doit être déclarée et versée.
+Article 95 du CGI : Le fait générateur de la taxe sur la valeur ajoutée est constitué par l'encaissement
+total ou partiel du prix des marchandises, des travaux ou des services.
+En pratique, le législateur marocain a retenu deux régimes d'exigibilité :
+Le régime de l'encaissement (droit commun) ;
+Le régime des débits (sur option).
+11.2 Régime de l'encaissement — droit commun
+En l'absence d'option contraire, la TVA est exigible au moment de l'encaissement effectif du prix, en tout
+ou en partie. Ce régime s'applique de plein droit à tous les assujettis.
+Mode de règlement Date d'exigibilité
+Espèces Date de la remise des fonds
+Chèque Date d'encaissement effectif (remise en banque)
+Virement bancaire Date d'inscription au crédit du compte du vendeur
+Effet de commerce (lettre de change, billet à ordre) Date d'échéance de l'effet, et non sa date d'émission
+Compensation de créances Date de la compensation
+Abandon de créance Date de l'abandon (constaté par accord écrit)
+Exemple : Une société de conseil facture une prestation de 120 000 DH HT le 15 mars 2026 (TVA 20% =
+24 000 DH). Le client règle par chèque le 10 avril 2026, encaissé le 14 avril. La TVA de 24 000 DH est
+exigible au titre de la période d'avril 2026 (télédéclaration à déposer avant le 31 mai 2026).
+Guide Pratique de la TVA au Maroc — 2026 Upsilon Consulting
+www.upsilon-consulting.com 40 / 57
+[[PAGE 41]]
+11.3 Régime des débits — sur option (art. 95)
+L'assujetti peut opter, par simple déclaration écrite au service local des impôts, pour le régime des débits.
+Dans ce cas, la TVA devient exigible dès l'inscription de la créance en comptabilité (débit du compte
+client), c'est-à-dire généralement à la date de la facturation.
+Attention : L'option pour les débits est irrévocable tant que l'assujetti n'a pas formulé de demande
+contraire acceptée par l'administration.
+Ce régime présente un avantage pour le client qui peut déduire la TVA dès réception de la facture (sans
+attendre le paiement), mais un inconvénient pour le fournisseur qui doit reverser la TVA avant même
+d'avoir été payé.
+11.4 Cas particuliers du fait générateur
+a) Livraisons à soi-même (LASM)
+Pour les livraisons à soi-même de biens et services (art. 89-I-7°), le fait générateur est constitué par la
+première utilisation du bien ou la livraison à soi-même de la prestation. En matière immobilière, c'est la
+date de la première occupation ou de la mise en service de l'immeuble.
+Exemple : Un promoteur immobilier qui construit un immeuble pour son propre compte déclare la TVA au
+titre du mois (ou trimestre) au cours duquel l'immeuble est achevé et mis en service.
+b) Importations
+La TVA à l'importation est exigible au moment du dédouanement de la marchandise. Elle est liquidée et
+acquittée directement auprès de l'Administration des douanes, concomitamment aux droits de douane. La
+quittance douanière constitue le justificatif de TVA déductible pour l'importateur.
+c) Acomptes et avances
+Tout encaissement d'acompte ou d'avance rend la TVA immédiatement exigible sur le montant encaissé,
+et ce avant même la réalisation complète de la livraison ou de la prestation. Sous le régime des débits,
+l'émission d'une facture d'acompte déclenche l'exigibilité.
+d) Marchés de l'État et des collectivités territoriales
+Pour les marchés publics, le fait générateur est constitué par l'encaissement de chaque décompte ou
+situation de travaux. En pratique, les délais de paiement de l'administration étant souvent longs (60 à 90
+jours après approbation du décompte), les entreprises titulaires de marchés publics se trouvent dans une
+situation de TVA exigible différée. C'est un avantage de trésorerie significatif par rapport au régime des
+débits.
+Guide Pratique de la TVA au Maroc — 2026 Upsilon Consulting
+www.upsilon-consulting.com 41 / 57
+[[PAGE 42]]
+11.5 Impact sur la trésorerie — comparaison des deux régimes
+Critère Régime de l'encaissement Régime des débits
+TVA collectée exigible Au paiement effectif par le client À la facturation
+TVA déductible chez le client Au paiement effectif du fournisseur À réception de la facture
+Avantage trésorerie
+fournisseur
+Oui — décalage favorable Non — TVA due avant
+encaissement
+Avantage trésorerie client Non — déduction différée Oui — déduction immédiate
+Marchés publics Très avantageux (délais longs) Pénalisant (TVA due à la
+facturation)
+Gestion comptable Plus complexe (suivi des
+encaissements)
+Plus simple (suivi des factures)
+Exemple comparatif : Une entreprise BTP facture un décompte de 500 000 DH HT + 100 000 DH TVA le
+1er février 2026. Le maître d'ouvrage public paie le 15 avril 2026.
+Régime encaissement : TVA de 100 000 DH exigible en avril 2026 → déclarée avant le 31 mai 2026.
+Régime débits : TVA de 100 000 DH exigible en février 2026 → déclarée avant le 31 mars 2026, soit 2
+mois avant l'encaissement.
+Conseil Upsilon : Pour les entreprises ayant une clientèle à paiement rapide (B2C, restauration,
+commerce de détail), le régime des débits est neutre. En revanche, pour les sociétés de services, BTP ou
+fournisseurs de l'administration, le régime de l'encaissement est nettement préférable pour préserver la
+trésorerie.
+Chapitre 12 — Régimes spéciaux : promoteurs immobiliers et
+lotisseurs
+L'immobilier bénéficie de règles TVA spécifiques qui dérogent au droit commun. Ce chapitre détaille le
+régime applicable aux promoteurs immobiliers et aux lotisseurs de terrain, deux activités dont le
+traitement fiscal présente des particularités importantes (réf. art. 89-I-5°, C.717 pp. 18-19).
+12.1 Régime des promoteurs immobiliers
+a) Définition du promoteur immobilier
+Au sens de l'article 89-I-5° du CGI, est considéré comme promoteur immobilier toute personne qui
+procède ou fait procéder à l'édification d'un ou plusieurs immeubles destinés à la vente ou à la location.
+Guide Pratique de la TVA au Maroc — 2026 Upsilon Consulting
+www.upsilon-consulting.com 42 / 57
+[[PAGE 43]]
+La qualité de promoteur est acquise que l'activité soit exercée à titre professionnel ou occasionnel ;
+Qu'il s'agisse d'une personne physique ou morale ;
+Que la construction soit réalisée directement ou confiée à des entreprises de travaux immobiliers.
+b) Base imposable
+La base imposable du promoteur immobilier est le prix de vente hors taxe du bien immobilier, à
+l'exclusion du prix du terrain. En effet, le terrain n'est pas un bien produit : sa cession constitue un acte
+civil hors champ de la TVA.
+En pratique, la ventilation s'effectue comme suit :
+Élément Régime TVA
+Prix de vente de la construction (hors terrain) Soumis à la TVA à 20%
+Prix du terrain (acquis séparément) Hors champ TVA
+Frais de viabilisation inclus dans le prix Soumis à la TVA
+Article 96-4° du CGI : Pour les opérations de promotion immobilière, la base imposable est constituée
+par le prix de cession de l'ouvrage diminué du prix du terrain actualisé par référence aux coefficients
+fixés annuellement par arrêté du Ministre des Finances.
+c) TVA déductible
+Le promoteur immobilier peut déduire la TVA supportée sur :
+Les travaux de construction (gros œuvre, second œuvre, finitions) ;
+Les matériaux de construction acquis directement ;
+Les honoraires d'architecte, de bureau d'études, de géomètre ;
+Les frais de viabilisation et d'aménagement ;
+Les frais généraux liés à l'opération de promotion (publicité, commercialisation).
+Exemple chiffré :
+Poste Montant HT TVA déductible
+Terrain 2 000 000 DH —
+Travaux gros œuvre 5 000 000 DH 1 000 000 DH
+Second œuvre + finitions 3 000 000 DH 600 000 DH
+Honoraires architecte 500 000 DH 100 000 DH
+Total TVA déductible 1 700 000 DH
+Guide Pratique de la TVA au Maroc — 2026 Upsilon Consulting
+www.upsilon-consulting.com 43 / 57
+[[PAGE 44]]
+Si le promoteur vend les appartements pour un total de 15 000 000 DH dont 2 000 000 DH pour le terrain,
+la base taxable est de 13 000 000 DH, soit une TVA collectée de 2 600 000 DH (20%). La TVA nette à
+reverser est : 2 600 000 - 1 700 000 = 900 000 DH.
+d) Logement social — exonération art. 92-I-28°
+Les opérations de construction de logements sociaux bénéficient d'une exonération avec droit à
+déduction sous conditions strictes (C.717, confirmé par les dispositions en vigueur) :
+Critère Condition
+Superficie couverte 50 à 100 m² (brute, incluant quote-part parties communes min. 10%)
+Prix de vente ≤ 250 000 DH hors taxe
+Destination Habitation principale de l'acquéreur
+Durée d'affectation 4 ans minimum (habitation principale)
+Garantie Hypothèque de 1er/2ème rang au profit de l'État
+Acte notarié Compromis et contrat définitif obligatoirement notariés
+Mécanisme : L'État verse au bénéfice de l'acquéreur, via le notaire, le montant de la TVA. Le promoteur,
+étant exonéré avec droit à déduction, peut récupérer la TVA grevant ses achats de construction par voie
+de remboursement (art. 103).
+e) Cités et campus universitaires — art. 92-I-29°
+Les travaux de construction de cités, résidences et campus universitaires sont exonérés avec droit à
+déduction, sous réserve de :
+Au moins 50 chambres d'une capacité maximale de 2 lits par chambre ;
+Construction dans le cadre d'une convention avec l'État ;
+Délai de réalisation : 3 ans à compter de l'autorisation de construire.
+12.2 Régime des lotisseurs de terrain
+a) Notion de lotissement
+Les travaux d'aménagement et de viabilisation de terrains à bâtir constituent des opérations imposables
+à la TVA, qu'ils soient réalisés par un professionnel ou à titre occasionnel (C.717, p. 18-19).
+b) Livraison à soi-même (LASM)
+Lorsque le propriétaire du terrain exécute lui-même les travaux de viabilisation (ou les fait exécuter pour
+son propre compte en vue de la vente des lots), il est assimilé à un entrepreneur occasionnel et doit
+déclarer une livraison à soi-même (art. 89-I-7°).
+Guide Pratique de la TVA au Maroc — 2026 Upsilon Consulting
+www.upsilon-consulting.com 44 / 57
+[[PAGE 45]]
+c) Base imposable
+La base imposable est constituée par le coût de viabilisation, à l'exclusion du prix du terrain nu :
+Travaux de voirie (routes, trottoirs) ;
+Réseaux d'assainissement et d'eau potable ;
+Réseau électrique et éclairage public ;
+Aménagement des espaces verts ;
+Frais d'études et de géomètre.
+Exemple chiffré : Un lotisseur achète un terrain de 2 hectares pour 5 000 000 DH et engage 3 000 000
+DH HT de travaux de viabilisation (TVA 20% = 600 000 DH payée aux entreprises). Il vend les lots pour 12
+000 000 DH.
+Base TVA collectée = coût de viabilisation = 3 000 000 DH → TVA collectée = 600 000 DH
+TVA déductible = 600 000 DH (TVA sur travaux de viabilisation)
+TVA nette = 0 DH (opération neutre si tous les travaux sont facturés avec TVA)
+En revanche, si le lotisseur réalise lui-même une partie des travaux (LASM), la TVA est calculée sur le coût
+de revient des travaux et la déduction est limitée à la TVA effectivement supportée sur les achats de
+matériaux et services.
+12.3 Obligations spécifiques
+Comptabilité : Les promoteurs et lotisseurs doivent tenir une comptabilité régulière conforme au
+CGNC, permettant de ventiler les opérations par projet ;
+Déclarations : La TVA est déclarée selon le régime de droit commun (encaissement ou débits) ;
+Prorata de déduction : En cas d'opérations mixtes (ventes taxables + ventes exonérées de logement
+social), application du prorata de déduction (art. 104) ;
+Régularisation : Tout changement d'affectation d'un immeuble (de taxable à exonéré ou inversement)
+entraîne une régularisation de la TVA déduite (art. 102).
+Chapitre 13 — Régime de remboursement de la TVA
+Le remboursement de la TVA est un droit reconnu par le législateur aux assujettis qui se trouvent
+structurellement en situation de crédit de taxe. L'article 103 du CGI en fixe les conditions et les modalités.
+13.1 Principe général (art. 103)
+Le remboursement intervient lorsque la TVA déductible excède durablement la TVA collectée, créant un
+crédit de taxe que l'assujetti ne peut pas imputer sur les déclarations suivantes. Ce crédit peut résulter de
+la nature même de l'activité (exportation, exonération avec droit à déduction) ou de circonstances
+exceptionnelles (investissement lourd, cessation).
+Guide Pratique de la TVA au Maroc — 2026 Upsilon Consulting
+www.upsilon-consulting.com 45 / 57
+[[PAGE 46]]
+Important : Le remboursement n'est pas automatique. Il est subordonné à une demande formelle
+accompagnée de justificatifs, et fait l'objet d'un contrôle par l'administration fiscale.
+13.2 Cas ouvrant droit au remboursement
+a) Opérations exonérées avec droit à déduction (art. 92)
+Les assujettis réalisant des opérations exonérées avec droit à déduction ne collectent pas de TVA mais
+déduisent la TVA sur leurs achats. Ils génèrent donc un crédit structurel. Principaux cas :
+Exportateurs (art. 92-I-1°) : la totalité du CA est exonérée, la TVA sur achats est intégralement
+déductible ;
+Promoteurs de logement social (art. 92-I-28°) : exonération de la vente avec maintien du droit à
+déduction ;
+Entreprises en phase d'investissement (art. 92-I-6°) : exonération des biens d'investissement
+pendant 36 mois ;
+Opérateurs en zone franche d'exportation (art. 92-I-36°).
+b) Cessation d'activité
+Lorsqu'un assujetti cesse son activité taxable, le crédit de TVA résiduel peut faire l'objet d'un
+remboursement. La demande doit être déposée dans les 30 jours suivant la date de cessation.
+c) Crédit de TVA non imputable — le « butoir »
+Le butoir désigne le crédit de TVA qui ne peut pas être imputé parce que l'assujetti réalise des opérations
+taxables à un taux inférieur au taux grevant ses achats, ou parce que le volume de la TVA déductible
+excède structurellement la TVA collectée.
+Ce crédit peut faire l'objet d'un remboursement dans les conditions de l'article 103, sous réserve que le
+crédit soit reporté depuis au moins 4 trimestres consécutifs sans avoir pu être résorbé.
+d) Produits pharmaceutiques — crédit né depuis le 01/01/2024
+Depuis la LdF 2024 (NC 735), tous les produits pharmaceutiques sont exonérés avec droit à déduction. Le
+crédit de TVA né à compter du 01/01/2024 au titre de ces opérations ouvre expressément droit au
+remboursement (art. 103-1°). Cette disposition vise à compenser l'impact de la suppression du taux de
+7% sur les pharmacies et laboratoires.
+13.3 Conditions du remboursement
+Pour obtenir le remboursement, l'assujetti doit :
+Être identifié à la TVA et en situation régulière vis-à-vis de ses obligations déclaratives ;
+Tenir une comptabilité régulière permettant le contrôle des opérations ;
+Guide Pratique de la TVA au Maroc — 2026 Upsilon Consulting
+www.upsilon-consulting.com 46 / 57
+[[PAGE 47]]
+Présenter des factures conformes comportant toutes les mentions obligatoires (identifiant fiscal,
+numéro d'article TVA, montant HT, taux et montant de la TVA) ;
+Justifier de la réalité des opérations ayant généré le crédit (factures, relevés bancaires, DUM pour les
+importations, attestations d'exportation).
+13.4 Modalités pratiques
+Élément Détail
+Périodicité de la
+demande
+Trimestrielle (au terme de chaque trimestre civil)
+Formulaire Demande de remboursement accompagnée d'un relevé de déductions et de l'état
+récapitulatif des factures
+Dépôt Auprès du service local des impôts ou via la plateforme SIMPL
+Délai de traitement En principe 3 mois à compter du dépôt de la demande complète (en pratique : 3 à 6
+mois, parfois plus en cas de vérification)
+Vérification L'administration peut procéder à un contrôle sur pièces ou sur place avant le
+remboursement
+13.5 Plafond et calcul du montant remboursable
+Le montant remboursable est le crédit de TVA cumulé figurant sur les déclarations, sous réserve des
+régularisations éventuelles. Pour les exportateurs, le remboursement est plafonné au montant de la TVA
+ayant effectivement grevé les achats utilisés dans la production des biens exportés ou la réalisation des
+services exportés.
+13.6 Exemples pratiques
+Exemple 1 — Exportateur textile
+Une entreprise textile exporte 100% de sa production. Au T1 2026 :
+CA export : 5 000 000 DH (exonéré art. 92-I-1°) → TVA collectée = 0
+Achats matières premières : 2 000 000 DH HT → TVA déductible = 400 000 DH
+Charges générales : 500 000 DH HT → TVA déductible = 100 000 DH
+Crédit de TVA = 500 000 DH → demande de remboursement avant le 30 avril 2026
+Exemple 2 — Promoteur logement social
+Un promoteur construit 40 logements sociaux (art. 92-I-28°). Prix de vente unitaire : 250 000 DH HT.
+Total des ventes : 10 000 000 DH (exonéré ADD). TVA sur coûts de construction : 1 200 000 DH.
+TVA collectée = 0 (exonération ADD)
+Guide Pratique de la TVA au Maroc — 2026 Upsilon Consulting
+www.upsilon-consulting.com 47 / 57
+[[PAGE 48]]
+TVA déductible = 1 200 000 DH
+Crédit remboursable = 1 200 000 DH
+Exemple 3 — Pharmacie
+Depuis le 01/01/2024, une officine de pharmacie vend des médicaments exonérés ADD (art. 92-I-19°). Elle
+supporte la TVA sur ses charges d'exploitation (loyer, matériel, services). Le crédit né à compter de cette
+date est remboursable sur demande trimestrielle.
+Conseil Upsilon : Les demandes de remboursement doivent être préparées avec soin : un dossier
+incomplet ou des factures non conformes entraînent un rejet ou un retard significatif. Nous
+recommandons de constituer un dossier justificatif structuré par trimestre, avec rapprochement bancaire
+des factures.
+Chapitre 14 — Déclarations et paiement de la TVA
+Le CGI impose aux assujettis des obligations déclaratives strictes dont le non-respect est sanctionné par
+des majorations automatiques. La digitalisation via la plateforme SIMPL a rendu la télédéclaration et le
+télépaiement obligatoires pour l'ensemble des assujettis.
+14.1 Périodicité des déclarations
+a) Déclaration mensuelle
+Sont soumis au régime de la déclaration mensuelle les assujettis dont le chiffre d'affaires taxable de
+l'année précédente (N-1) est égal ou supérieur à 1 000 000 DH.
+Délai : avant la fin du mois suivant la période imposable (depuis le passage au télépaiement
+obligatoire, l'ancien délai du 20 du mois a été remplacé par la fin du mois).
+Exemple : TVA du mois de janvier 2026 → télédéclaration et télépaiement avant le 28 février 2026.
+b) Déclaration trimestrielle
+Sont soumis au régime de la déclaration trimestrielle :
+Les assujettis dont le CA taxable de l'année N-1 est inférieur à 1 000 000 DH ;
+Les nouveaux assujettis pendant leur première année d'activité (quel que soit le CA prévisionnel) ;
+Les contribuables n'ayant eu aucun établissement au Maroc au cours de l'année précédente.
+Délai : avant la fin du mois suivant le trimestre écoulé.
+Trimestre Période Date limite de déclaration
+T1 Janvier – Mars 30 avril
+Guide Pratique de la TVA au Maroc — 2026 Upsilon Consulting
+www.upsilon-consulting.com 48 / 57
+[[PAGE 49]]
+Trimestre Période Date limite de déclaration
+T2 Avril – Juin 31 juillet
+T3 Juillet – Septembre 31 octobre
+T4 Octobre – Décembre 31 janvier N+1
+14.2 Plateforme SIMPL-TVA
+Depuis 2017, la télédéclaration et le télépaiement de la TVA sont obligatoires pour l'ensemble des
+assujettis, via le portail SIMPL (Système Intégré de la Modernisation de la Politique fiscale en Ligne) de la
+Direction Générale des Impôts.
+L'accès à SIMPL nécessite :
+Un identifiant fiscal (IF) et un numéro d'article TVA ;
+Un certificat électronique de signature (Barid Al-Maghrib ou autre prestataire agréé) ;
+Une adhésion au télépaiement (prélèvement bancaire ou carte bancaire).
+14.3 Contenu de la déclaration
+La déclaration de TVA comporte les rubriques suivantes :
+Rubrique Contenu
+CA taxable Montant HT des opérations soumises à la TVA, ventilé par taux (20%, 10%)
+CA exonéré Montant des opérations exonérées (art. 91, 92, 94), ventilé par catégorie
+CA hors champ Montant des opérations hors champ déclarées pour information
+TVA collectée Total de la TVA facturée aux clients sur les opérations taxables
+TVA déductible TVA sur immobilisations + TVA sur charges, avec ventilation
+TVA autoliquidée TVA sur prestations de services rendues par des non-résidents (art. 115)
+TVA retenue à la source Montant de la RAS TVA effectuée sur les fournisseurs (art. 117)
+Crédit reporté Crédit de TVA de la période précédente non encore imputé
+TVA nette due / Crédit de taxe Solde = TVA collectée – TVA déductible – Crédit reporté
+14.4 Paiement de la TVA
+Le paiement s'effectue exclusivement par télépaiement (prélèvement bancaire ou paiement en ligne),
+dans les mêmes délais que la déclaration :
+Mensuel : avant la fin du mois suivant ;
+Guide Pratique de la TVA au Maroc — 2026 Upsilon Consulting
+www.upsilon-consulting.com 49 / 57
+[[PAGE 50]]
+Trimestriel : avant la fin du mois suivant le trimestre.
+En cas de crédit de taxe (TVA déductible > TVA collectée), aucun paiement n'est dû. Le crédit est reporté
+sur la déclaration suivante ou fait l'objet d'une demande de remboursement (cf. chapitre 13).
+14.5 Régime de cessation d'activité
+En cas de cessation d'activité, l'assujetti doit :
+Déposer une déclaration de cessation dans les 30 jours suivant la date de cessation effective ;
+Régulariser les opérations en cours : TVA sur encaissements non encore déclarés, reversement de la
+TVA déduite sur les immobilisations non entièrement amorties ;
+Soumettre les stocks résiduels à la TVA si ceux-ci sont cédés.
+Conseil Upsilon : En cas de cessation, ne négligez pas la régularisation des immobilisations acquises
+avec TVA déductible depuis moins de 5 ans (biens meubles) ou 10 ans (biens immeubles). Le
+reversement est calculé au prorata du temps restant à courir.
+Chapitre 15 — Retenue à la source TVA et autoliquidation
+Depuis la LdF 2024, le législateur a considérablement renforcé les mécanismes de retenue à la source
+(RAS) en matière de TVA, en les étendant au secteur privé. Ce chapitre traite de la RAS TVA (art. 117), de
+l'autoliquidation (art. 115) et de la représentation fiscale des non-résidents.
+15.1 Retenue à la source TVA (art. 117)
+a) Principe
+Le mécanisme de la retenue à la source TVA consiste à obliger le client (débiteur de la rémunération) à
+retenir une fraction ou la totalité de la TVA facturée par le fournisseur et à la reverser directement au
+Trésor. Ce dispositif vise à lutter contre la fraude à la TVA et à sécuriser les recettes fiscales.
+b) Champ d'application
+La RAS TVA s'applique aux paiements effectués par les personnes morales de droit public et privé, ainsi
+que par les personnes physiques assujetties, au profit de fournisseurs non catégorisés par
+l'administration fiscale.
+La catégorisation est un classement des contribuables en fonction de leur niveau de conformité fiscale :
+Contribuable catégorisé : en règle vis-à-vis de ses obligations fiscales, titulaire d'une Attestation de
+Régularité Fiscale (ARF) valide ;
+Contribuable non catégorisé : pas d'ARF valide ou contribuable identifié comme présentant un risque
+fiscal.
+Guide Pratique de la TVA au Maroc — 2026 Upsilon Consulting
+www.upsilon-consulting.com 50 / 57
+[[PAGE 51]]
+c) Taux de la retenue
+Situation du
+fournisseur Taux de la RAS Détail
+Fournisseur avec ARF
+valide
+75% de la TVA
+facturée
+Le fournisseur conserve 25% de la TVA pour compenser ses
+propres déductions
+Fournisseur sans ARF 100% de la TVA
+facturée
+La totalité de la TVA est retenue et versée au Trésor
+d) Extension au secteur privé (LdF 2024)
+Avant la LdF 2024, la RAS TVA était principalement imposée à l'État, aux collectivités territoriales et aux
+établissements publics. Depuis le 1er janvier 2024, le mécanisme est étendu au secteur privé : toute
+personne morale de droit privé et tout assujetti personne physique sont désormais tenus de pratiquer la
+retenue lorsqu'ils paient un fournisseur non catégorisé.
+e) Obligations déclaratives
+Le retenu (client qui opère la RAS) doit :
+Déclarer la TVA retenue à la source sur sa propre déclaration de TVA (rubrique dédiée) ;
+Verser la TVA retenue dans les mêmes délais que sa déclaration de TVA (avant la fin du mois suivant
+ou du mois suivant le trimestre) ;
+Délivrer au fournisseur un certificat de retenue mentionnant le montant retenu.
+Le fournisseur retenu doit :
+Mentionner la TVA retenue à la source sur sa propre déclaration de TVA ;
+Imputer la TVA retenue sur sa TVA due. Si le montant retenu excède la TVA due, le solde constitue un
+crédit de taxe reportable ou remboursable.
+15.2 Autoliquidation (art. 115)
+a) Principe
+Lorsqu'un prestataire non résident (n'ayant pas d'établissement au Maroc) rend un service à un assujetti
+marocain, la TVA est autoliquidée par le client marocain. Ce dernier déclare et paie la TVA pour le compte
+du prestataire étranger.
+Article 115 du CGI : La taxe due au titre des prestations de services rendues par toute personne non
+résidente est déclarée et versée par le client établi au Maroc.
+Guide Pratique de la TVA au Maroc — 2026 Upsilon Consulting
+www.upsilon-consulting.com 51 / 57
+[[PAGE 52]]
+b) Mécanisme comptable
+L'autoliquidation est une opération neutre pour l'assujetti total (qui réalise exclusivement des opérations
+ouvrant droit à déduction) :
+TVA collectée (autoliquidée) : le client marocain calcule la TVA sur le montant HT de la prestation et
+la déclare comme TVA collectée ;
+TVA déductible : simultanément, le même montant est inscrit en TVA déductible.
+Résultat : impact nul en trésorerie pour l'assujetti total. En revanche, pour un assujetti partiel (prorata de
+déduction), la TVA autoliquidée n'est que partiellement déductible.
+c) Prestations concernées
+Prestations de conseil, d'assistance technique, d'ingénierie ;
+Services informatiques (licences SaaS, hébergement cloud, développement) ;
+Redevances et royalties ;
+Services de publicité en ligne (Google Ads, Meta, etc.) ;
+Formation et coaching à distance.
+15.3 Représentation fiscale
+Les personnes non résidentes réalisant des opérations taxables au Maroc (livraisons de biens,
+prestations de services localisées au Maroc) et qui n'ont pas d'établissement stable sont tenues de
+désigner un représentant fiscal domicilié au Maroc.
+Le représentant fiscal :
+S'identifie à la TVA au nom et pour le compte du non-résident ;
+Souscrit les déclarations et paie la TVA ;
+Est solidairement responsable du paiement de la taxe.
+15.4 Exemples pratiques
+Exemple 1 — Prestataire IT étranger (autoliquidation)
+Une société marocaine achète un service de développement logiciel à une ESN basée en France pour 500
+000 DH HT. Le prestataire français n'a pas d'établissement au Maroc.
+La société marocaine autoliquide la TVA : 500 000 x 20% = 100 000 DH
+Elle déclare 100 000 DH en TVA collectée (ligne autoliquidation) et 100 000 DH en TVA déductible
+Impact trésorerie = 0 DH (si assujetti total)
+Exemple 2 — Fournisseur non catégorisé (RAS TVA)
+Une société marocaine paie un sous-traitant local non catégorisé (sans ARF) pour une prestation de 120
+000 DH HT + 24 000 DH TVA = 144 000 DH TTC.
+Guide Pratique de la TVA au Maroc — 2026 Upsilon Consulting
+www.upsilon-consulting.com 52 / 57
+[[PAGE 53]]
+RAS = 100% de la TVA facturée = 24 000 DH retenus
+Montant net versé au fournisseur : 144 000 - 24 000 = 120 000 DH
+La société verse les 24 000 DH au Trésor via sa déclaration de TVA
+Le fournisseur impute les 24 000 DH retenus sur sa propre TVA due
+Si le fournisseur avait une ARF valide, la retenue serait de 75% x 24 000 = 18 000 DH, et le fournisseur
+percevrait 144 000 - 18 000 = 126 000 DH.
+Conseil Upsilon : Pour éviter la RAS TVA à 100%, assurez-vous que tous vos fournisseurs disposent
+d'une ARF en cours de validité. Côté fournisseur, la régularisation fiscale et l'obtention de l'ARF doivent
+être une priorité pour préserver la relation commerciale et la trésorerie.
+Chapitre 16 — Sanctions et prescription
+Le CGI prévoit un arsenal de sanctions graduelles en cas de manquement aux obligations déclaratives et
+de paiement en matière de TVA. Ce chapitre présente les principales majorations, les procédures de
+taxation d'office et les sanctions pénales, ainsi que les règles de prescription.
+16.1 Majorations pour déclaration tardive (art. 184)
+Le défaut ou le retard de déclaration entraîne l'application de majorations prévues par l'article 184 du CGI
+:
+Situation Majoration Détail
+Déclaration déposée en retard
+(spontanément)
+15% du montant de
+l'impôt dû
+Majorée de 0,50% par mois ou fraction de
+mois de retard, avec un minimum de 500
+DH
+Déclaration déposée après mise en
+demeure (dans les 30 jours)
+15% du montant de
+l'impôt dû
++ 0,50% par mois de retard
+Déclaration déposée au-delà de 30
+jours après la mise en demeure
+20% du montant de
+l'impôt dû
++ 0,50% par mois de retard
+Déclaration comportant des
+insuffisances (bonne foi)
+5% des droits
+complémentaires
++ 0,50% par mois de retard
+Déclaration comportant des
+insuffisances (mauvaise foi)
+15% des droits
+complémentaires
++ 0,50% par mois de retard
+Note : Le minimum de perception des majorations est de 500 DH (art. 184-I du CGI). La majoration de 0,50%
+par mois de retard s'applique pour la période comprise entre la date d'exigibilité et celle du paiement effectif,
+Guide Pratique de la TVA au Maroc — 2026 Upsilon Consulting
+www.upsilon-consulting.com 53 / 57
+[[PAGE 54]]
+le mois entamé étant compté intégralement.
+Exemple : Une entreprise dépose sa déclaration de TVA de janvier 2026 (due fin février) avec 4 mois de
+retard (fin juin). TVA due : 50 000 DH. Dépôt spontané.
+Majoration initiale : 50 000 x 15% = 7 500 DH
+Majoration de retard : 50 000 x 0,50% x 4 mois = 1 000 DH
+Total majorations = 8 500 DH
+16.2 Majorations pour paiement tardif (art. 208)
+Lorsque la déclaration est déposée dans les délais mais que le paiement est effectué en retard, les
+majorations suivantes s'appliquent (art. 208 du CGI) :
+Élément Taux
+Pénalité pour paiement tardif 10% du montant de la TVA due
+1er mois de retard + 5% du montant dû
+Mois suivants + 0,50% par mois ou fraction de mois supplémentaire
+Exemple : TVA due de 100 000 DH, payée avec 3 mois de retard.
+Pénalité de base : 100 000 x 10% = 10 000 DH
+1er mois : 100 000 x 5% = 5 000 DH
+2ème et 3ème mois : 100 000 x 0,50% x 2 = 1 000 DH
+Total pénalités = 16 000 DH
+16.3 Taxation d'office
+L'administration peut recourir à la taxation d'office lorsque l'assujetti :
+N'a pas déposé sa déclaration dans le délai légal, malgré une mise en demeure restée sans effet
+pendant 15 jours ;
+N'a pas produit les documents comptables dans le cadre d'un contrôle fiscal ;
+A déposé une déclaration incomplète ou inexploitable.
+La taxation d'office est effectuée sur la base des éléments dont dispose l'administration (recoupements,
+données de tiers, estimations). Le contribuable peut contester la taxation par voie de réclamation dans un
+délai de 6 mois suivant la notification.
+Important : En cas de taxation d'office, c'est au contribuable de prouver que le montant fixé par
+l'administration est excessif (renversement de la charge de la preuve). D'où l'importance de ne jamais
+laisser une mise en demeure sans réponse.
+Guide Pratique de la TVA au Maroc — 2026 Upsilon Consulting
+www.upsilon-consulting.com 54 / 57
+[[PAGE 55]]
+16.4 Facturation irrégulière et TVA indûment récupérée
+a) Facturation irrégulière
+Toute personne qui mentionne la TVA sur une facture alors qu'elle n'est pas assujettie, ou qui facture un
+montant de TVA supérieur à celui légalement dû, est redevable de la taxe indûment facturée. La
+rectification n'est possible que par l'émission d'une facture rectificative.
+b) TVA indûment déduite
+Lorsqu'un assujetti a déduit une TVA qu'il n'avait pas le droit de déduire (facture fictive, dépense non
+déductible, prorata mal calculé), l'administration procède au rappel de la TVA majoré des pénalités de
+retard. La majoration est de 15% en cas de mauvaise foi caractérisée.
+16.5 Sanctions pénales (art. 187 et suivants)
+Au-delà des sanctions administratives, le CGI prévoit des sanctions pénales en cas de fraude fiscale
+caractérisée :
+Infraction Sanction
+Fraude fiscale (manœuvres frauduleuses, fausses
+factures)
+Amende de 50 000 à 500 000 DH + emprisonnement de 1
+à 3 mois
+Récidive dans les 5 ans Amende doublée + emprisonnement de 1 à 3 mois
+(cumulatif)
+Refus de présenter les documents comptables Amende de 2 000 DH par document non présenté
+Opposition au contrôle fiscal Amende de 50 000 DH
+Les poursuites pénales sont engagées par l'administration fiscale après avis conforme d'une commission
+consultative. Elles s'ajoutent aux sanctions administratives (majorations et pénalités).
+16.6 Prescription
+En matière de TVA, le droit de reprise de l'administration s'exerce dans un délai de 4 ans à compter du 1er
+janvier de l'année suivant celle au titre de laquelle la taxe est due.
+TVA due au titre de Prescription acquise le
+Année 2022 1er janvier 2027
+Année 2023 1er janvier 2028
+Année 2024 1er janvier 2029
+Année 2025 1er janvier 2030
+Guide Pratique de la TVA au Maroc — 2026 Upsilon Consulting
+www.upsilon-consulting.com 55 / 57
+[[PAGE 56]]
+Interruption de la prescription : Le délai de prescription est interrompu par :
+La notification d'un avis de vérification ;
+La notification d'un redressement ;
+La reconnaissance de la dette par le contribuable ;
+Toute demande de remboursement ou de dégrèvement.
+Après interruption, un nouveau délai de 4 ans court à compter de la date de l'acte interruptif.
+16.7 Régularisation spontanée et dispositions transitoires
+Le CGI prévoit des dispositions permettant d'atténuer les sanctions dans certaines situations :
+a) Déclaration rectificative spontanée (art. 221 bis)
+L'assujetti qui constate une erreur ou une insuffisance dans sa déclaration peut déposer une déclaration
+rectificative avant toute notification d'avis de vérification. Dans ce cas, seule la majoration de 5% prévue
+à l'article 184-I est applicable (insuffisance — bonne foi), majorée de 0,50% par mois de retard.
+b) Paiement spontané avant mise en demeure
+Lorsque le contribuable procède au paiement spontané des droits dus avant la notification d'une mise en
+demeure, la majoration de 15% est ramenée à 5% (art. 184-I du CGI). Cette disposition vise à encourager
+la régularisation volontaire.
+c) Dispositions transitoires des Lois de Finances
+Certaines Lois de Finances ont prévu des mesures ponctuelles de régularisation (annulation partielle ou
+totale des majorations, amendes et pénalités pour les contribuables régularisant dans un délai déterminé).
+Ces mesures sont temporaires et à durée limitée. Il convient de vérifier les dispositions transitoires de la
+LdF en vigueur pour déterminer si une mesure d'amnistie est applicable.
+Attention : Les mesures d'amnistie ponctuelles prévues par les LdF antérieures (2020, 2024, 2025) ont
+expiré. À la date de publication de ce guide (mars 2026), il convient de se référer aux dispositions transitoires
+de la LdF 2026 pour vérifier l'existence de mesures de régularisation en cours.
+Conseil Upsilon : La prévention reste la meilleure stratégie. Un calendrier fiscal rigoureux, une
+comptabilité à jour et un suivi des échéances de déclaration permettent d'éviter la quasi-totalité des
+sanctions. En cas de retard constaté, agissez immédiatement : chaque mois de retard supplémentaire
+augmente mécaniquement les majorations. N'hésitez pas à nous consulter pour évaluer les options de
+régularisation.
+Guide Pratique de la TVA au Maroc — 2026 Upsilon Consulting
+www.upsilon-consulting.com 56 / 57
+[[PAGE 57]]
+Avertissement
+Le présent guide a été élaboré par le cabinet Upsilon Consulting à des fins d'information et de vulgarisation. Il ne
+saurait se substituer à un conseil personnalisé ni engager la responsabilité du cabinet.
+Les informations contenues dans ce document sont conformes aux dispositions du Code Général des Impôts (CGI)
+2026, de la Circulaire 717 (Tome 2 — TVA et Droits d'Enregistrement) et des Notes Circulaires n° 730 (LdF 2020),
+735 (LdF 2024), 736 (LdF 2025) et 737 (LdF 2026), telles qu'en vigueur au 1er mars 2026.
+Toute modification législative ou réglementaire postérieure à cette date est susceptible d'affecter le contenu de ce
+guide. Pour un accompagnement adapté à votre situation, nous vous invitons à contacter notre cabinet.
+Upsilon Consulting
+Expert-Comptable • Audit • Conseil Fiscal
+Casablanca, Maroc
+www.upsilon-consulting.com
+© 2026 Upsilon Consulting. Tous droits réservés. Reproduction interdite sans autorisation.
+Guide Pratique de la TVA au Maroc — 2026 Upsilon Consulting
+www.upsilon-consulting.com 57 / 57
